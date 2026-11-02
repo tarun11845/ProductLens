@@ -1,0 +1,4159 @@
+[
+  {
+    "name": "iPhone 15",
+    "brand": "Apple",
+    "category": "Mobile",
+    "price": 69900,
+    "description": "The iPhone 15 is Apple's standard model for 2023. It brings the Dynamic Island, a 48MP main camera and a USB-C port to the regular iPhone for the first time, inside a colour-infused matte glass and aluminium body.",
+    "specifications": {
+      "General": {
+        "Launch": "September 2023",
+        "Operating System": "iOS 17 (upgradable)",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Size": "6.1 inches",
+        "Type": "Super Retina XDR OLED",
+        "Resolution": "2556 x 1179 pixels (460 ppi)",
+        "Refresh Rate": "60 Hz",
+        "Brightness": "1000 nits typical, 1600 nits HDR, 2000 nits outdoor",
+        "Protection": "Ceramic Shield front"
+      },
+      "Performance": {
+        "Chipset": "A16 Bionic",
+        "CPU": "6-core (2 performance + 4 efficiency)",
+        "GPU": "5-core Apple GPU",
+        "Neural Engine": "16-core",
+        "RAM": "6 GB",
+        "Storage Options": "128 GB / 256 GB / 512 GB",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Main Camera": "48MP wide, f/1.6, sensor-shift OIS",
+        "Ultra Wide Camera": "12MP, f/2.4, 120° field of view",
+        "Optical Zoom": "2x (optical-quality crop from 48MP sensor)",
+        "Front Camera": "12MP TrueDepth, f/1.9, autofocus",
+        "Video Recording": "4K up to 60 fps, Cinematic mode, Action mode"
+      },
+      "Battery & Charging": {
+        "Battery": "3349 mAh",
+        "Video Playback": "Up to 20 hours",
+        "Wired Charging": "20W (up to 50% in 30 minutes)",
+        "Wireless Charging": "MagSafe 15W, Qi2 15W, Qi 7.5W"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 6 (802.11ax)",
+        "Bluetooth": "5.3",
+        "NFC": "Yes (Apple Pay)",
+        "Ultra Wideband": "Second-generation UWB chip",
+        "USB": "USB-C (USB 2, up to 480 Mb/s)",
+        "Satellite": "Emergency SOS and Roadside Assistance via satellite"
+      },
+      "Design": {
+        "Dimensions": "147.6 x 71.6 x 7.80 mm",
+        "Weight": "171 g",
+        "Build": "Aluminium frame, colour-infused glass back",
+        "Water Resistance": "IP68 (6 metres up to 30 minutes)",
+        "Colours": "Black, Blue, Green, Yellow, Pink"
+      },
+      "Security": {
+        "Biometrics": "Face ID"
+      }
+    },
+    "features": [
+      "Dynamic Island for alerts and live activities",
+      "48MP main camera with 24MP default photos",
+      "2x optical-quality telephoto option",
+      "USB-C port replacing Lightning",
+      "Crash Detection and Emergency SOS via satellite",
+      "Precision Finding with second-generation Ultra Wideband",
+      "IP68 water and dust resistance",
+      "Colour-infused matte glass back"
+    ],
+    "pros": [
+      "Big camera upgrade over the iPhone 14",
+      "USB-C makes charging with other devices easy",
+      "Long software support from Apple"
+    ],
+    "cons": [
+      "Still a 60 Hz display at this price",
+      "USB-C port limited to slow USB 2 speeds",
+      "No charger included in the box"
+    ],
+    "in_the_box": [
+      "iPhone 15",
+      "USB-C Charge Cable (1 m)",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/iphone_15_1.jpg",
+      "shubham_data/images/iphone_15_2.jpg",
+      "shubham_data/images/iphone_15_3.jpg"
+    ]
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "category": "Mobile",
+    "price": 134900,
+    "description": "The iPhone 15 Pro is Apple's first iPhone with a titanium design. It is powered by the A17 Pro chip, has a customisable Action button, a 3x telephoto camera and a USB-C port with fast USB 3 speeds.",
+    "specifications": {
+      "General": {
+        "Launch": "September 2023",
+        "Operating System": "iOS 17 (upgradable)",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Size": "6.1 inches",
+        "Type": "Super Retina XDR OLED with ProMotion and Always-On",
+        "Resolution": "2556 x 1179 pixels (460 ppi)",
+        "Refresh Rate": "Adaptive up to 120 Hz",
+        "Brightness": "1000 nits typical, 1600 nits HDR, 2000 nits outdoor",
+        "Protection": "Ceramic Shield front"
+      },
+      "Performance": {
+        "Chipset": "A17 Pro (3 nm)",
+        "CPU": "6-core (2 performance + 4 efficiency)",
+        "GPU": "6-core Apple GPU with hardware ray tracing",
+        "Neural Engine": "16-core",
+        "RAM": "8 GB",
+        "Storage Options": "128 GB / 256 GB / 512 GB / 1 TB",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Main Camera": "48MP wide, f/1.78, second-generation sensor-shift OIS",
+        "Ultra Wide Camera": "12MP, f/2.2, macro photography",
+        "Telephoto Camera": "12MP 3x, f/2.8",
+        "Front Camera": "12MP TrueDepth, f/1.9, autofocus",
+        "Video Recording": "4K up to 60 fps, ProRes, Log video, spatial video"
+      },
+      "Battery & Charging": {
+        "Battery": "3274 mAh",
+        "Video Playback": "Up to 23 hours",
+        "Wired Charging": "20W (up to 50% in 30 minutes)",
+        "Wireless Charging": "MagSafe 15W, Qi2 15W, Qi 7.5W"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 6E",
+        "Bluetooth": "5.3",
+        "NFC": "Yes (Apple Pay)",
+        "Ultra Wideband": "Second-generation UWB chip",
+        "USB": "USB-C (USB 3, up to 10 Gb/s)",
+        "Satellite": "Emergency SOS and Roadside Assistance via satellite"
+      },
+      "Design": {
+        "Dimensions": "146.6 x 70.6 x 8.25 mm",
+        "Weight": "187 g",
+        "Build": "Grade 5 titanium frame, textured matte glass back",
+        "Water Resistance": "IP68 (6 metres up to 30 minutes)",
+        "Colours": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium"
+      },
+      "Security": {
+        "Biometrics": "Face ID"
+      }
+    },
+    "features": [
+      "Lightweight titanium design",
+      "A17 Pro chip with hardware ray tracing for games",
+      "Customisable Action button",
+      "3x optical telephoto camera",
+      "USB 3 support for fast transfers",
+      "ProRes and Log video recording",
+      "Always-On display with ProMotion",
+      "Wi-Fi 6E support"
+    ],
+    "pros": [
+      "Lighter and more premium than the 14 Pro",
+      "Excellent cameras and video quality",
+      "Very fast performance for gaming and editing"
+    ],
+    "cons": [
+      "Expensive",
+      "Can get warm under heavy load",
+      "Slow 20W wired charging"
+    ],
+    "in_the_box": [
+      "iPhone 15 Pro",
+      "USB-C Charge Cable (1 m)",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/iphone_15_pro_1.jpg",
+      "shubham_data/images/iphone_15_pro_2.jpg",
+      "shubham_data/images/iphone_15_pro_3.jpg"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "brand": "Samsung",
+    "category": "Mobile",
+    "price": 79999,
+    "description": "The Galaxy S24 is Samsung's compact flagship for 2024. It introduces Galaxy AI features like Live Translate and Circle to Search, has a bright 120 Hz display and comes with a promise of seven years of software updates.",
+    "specifications": {
+      "General": {
+        "Launch": "January 2024",
+        "Operating System": "Android 14 with One UI 6.1",
+        "Software Updates": "7 years of OS and security updates",
+        "SIM": "Dual SIM (Nano + eSIM)"
+      },
+      "Display": {
+        "Size": "6.2 inches",
+        "Type": "Dynamic AMOLED 2X",
+        "Resolution": "2340 x 1080 pixels (FHD+)",
+        "Refresh Rate": "Adaptive 1-120 Hz",
+        "Peak Brightness": "2600 nits",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Performance": {
+        "Chipset": "Exynos 2400 (4 nm)",
+        "CPU": "10-core, up to 3.2 GHz",
+        "GPU": "Xclipse 940",
+        "RAM": "8 GB",
+        "Storage Options": "256 GB / 512 GB",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Main Camera": "50MP wide, f/1.8, OIS",
+        "Ultra Wide Camera": "12MP, f/2.2, 120°",
+        "Telephoto Camera": "10MP 3x optical zoom, f/2.4, OIS",
+        "Digital Zoom": "Up to 30x Space Zoom",
+        "Front Camera": "12MP, f/2.2",
+        "Video Recording": "8K at 30 fps, 4K at 60 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "4000 mAh",
+        "Wired Charging": "25W",
+        "Wireless Charging": "15W",
+        "Reverse Wireless Charging": "4.5W Wireless PowerShare"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 6E",
+        "Bluetooth": "5.3",
+        "NFC": "Yes",
+        "USB": "USB-C 3.2 Gen 1"
+      },
+      "Design": {
+        "Dimensions": "147.0 x 70.6 x 7.6 mm",
+        "Weight": "167 g",
+        "Build": "Armor Aluminium frame, Gorilla Glass Victus 2 back",
+        "Water Resistance": "IP68",
+        "Colours": "Onyx Black, Marble Grey, Cobalt Violet, Amber Yellow"
+      },
+      "Security": {
+        "Biometrics": "Ultrasonic in-display fingerprint sensor, face recognition",
+        "Platform": "Samsung Knox"
+      }
+    },
+    "features": [
+      "Galaxy AI: Live Translate for calls",
+      "Circle to Search with Google",
+      "Note Assist, Chat Assist and Photo Assist",
+      "7 years of Android OS and security updates",
+      "3x optical telephoto camera",
+      "8K video recording",
+      "IP68 water and dust resistance",
+      "Wireless PowerShare to charge other devices"
+    ],
+    "pros": [
+      "Compact and easy to use with one hand",
+      "Bright, smooth display",
+      "Very long software support"
+    ],
+    "cons": [
+      "Slow 25W charging",
+      "Exynos chip runs warmer than Snapdragon",
+      "Average battery life compared to bigger phones"
+    ],
+    "in_the_box": [
+      "Galaxy S24",
+      "USB-C to USB-C cable",
+      "SIM ejection pin",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/samsung_galaxy_s24_1.jpg",
+      "shubham_data/images/samsung_galaxy_s24_2.jpg",
+      "shubham_data/images/samsung_galaxy_s24_3.jpg"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy A55",
+    "brand": "Samsung",
+    "category": "Mobile",
+    "price": 39999,
+    "description": "The Galaxy A55 is a premium mid-range phone from Samsung. It is the first A-series phone with a metal frame, and offers an IP67 rating, a 120 Hz Super AMOLED display and four years of Android updates.",
+    "specifications": {
+      "General": {
+        "Launch": "March 2024",
+        "Operating System": "Android 14 with One UI 6.1",
+        "Software Updates": "4 OS updates, 5 years of security updates",
+        "SIM": "Dual SIM (hybrid slot)"
+      },
+      "Display": {
+        "Size": "6.6 inches",
+        "Type": "Super AMOLED",
+        "Resolution": "2340 x 1080 pixels (FHD+)",
+        "Refresh Rate": "120 Hz",
+        "Peak Brightness": "1000 nits",
+        "Protection": "Corning Gorilla Glass Victus+"
+      },
+      "Performance": {
+        "Chipset": "Exynos 1480 (4 nm)",
+        "CPU": "Octa-core, up to 2.75 GHz",
+        "GPU": "Xclipse 530",
+        "RAM": "8 GB / 12 GB",
+        "Storage Options": "128 GB / 256 GB",
+        "Expandable Storage": "microSD up to 1 TB"
+      },
+      "Camera": {
+        "Main Camera": "50MP, f/1.8, OIS",
+        "Ultra Wide Camera": "12MP, f/2.2",
+        "Macro Camera": "5MP, f/2.4",
+        "Front Camera": "32MP, f/2.2",
+        "Video Recording": "4K at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "5000 mAh",
+        "Wired Charging": "25W",
+        "Wireless Charging": "No"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.3",
+        "NFC": "Yes",
+        "USB": "USB-C 2.0"
+      },
+      "Design": {
+        "Dimensions": "161.1 x 77.4 x 8.2 mm",
+        "Weight": "213 g",
+        "Build": "Aluminium frame, Gorilla Glass Victus+ back",
+        "Water Resistance": "IP67",
+        "Colours": "Awesome Iceblue, Awesome Lilac, Awesome Navy"
+      },
+      "Security": {
+        "Biometrics": "In-display optical fingerprint sensor",
+        "Platform": "Samsung Knox Vault"
+      }
+    },
+    "features": [
+      "First Galaxy A phone with a metal frame",
+      "IP67 water and dust resistance",
+      "Samsung Knox Vault security chip",
+      "50MP OIS main camera with Nightography",
+      "Stereo speakers with Dolby Atmos",
+      "Expandable storage up to 1 TB",
+      "4 years of OS updates"
+    ],
+    "pros": [
+      "Premium build for a mid-range phone",
+      "Good display and battery life",
+      "Long software support"
+    ],
+    "cons": [
+      "Slow 25W charging",
+      "Heavy at 213 g",
+      "Macro camera adds little value"
+    ],
+    "in_the_box": [
+      "Galaxy A55",
+      "USB-C to USB-C cable",
+      "SIM ejection pin",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/samsung_galaxy_a55_1.jpg",
+      "shubham_data/images/samsung_galaxy_a55_2.jpg",
+      "shubham_data/images/samsung_galaxy_a55_3.jpg"
+    ]
+  },
+  {
+    "name": "Google Pixel 8",
+    "brand": "Google",
+    "category": "Mobile",
+    "price": 75999,
+    "description": "The Pixel 8 is Google's compact flagship powered by the Tensor G3 chip. It is known for its excellent camera software, AI photo tools such as Magic Eraser and Best Take, and seven years of Android updates.",
+    "specifications": {
+      "General": {
+        "Launch": "October 2023",
+        "Operating System": "Android 14",
+        "Software Updates": "7 years of OS, security and Feature Drops",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Size": "6.2 inches",
+        "Type": "Actua OLED",
+        "Resolution": "2400 x 1080 pixels (428 ppi)",
+        "Refresh Rate": "60-120 Hz Smooth Display",
+        "Peak Brightness": "2000 nits",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Performance": {
+        "Chipset": "Google Tensor G3",
+        "Security Chip": "Titan M2",
+        "RAM": "8 GB LPDDR5X",
+        "Storage Options": "128 GB / 256 GB",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Main Camera": "50MP Octa PD, f/1.68, OIS",
+        "Ultra Wide Camera": "12MP, f/2.2, 125.8°",
+        "Zoom": "Up to 8x Super Res Zoom",
+        "Front Camera": "10.5MP, f/2.2",
+        "Video Recording": "4K at 60 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "4575 mAh",
+        "Wired Charging": "27W",
+        "Wireless Charging": "18W (Pixel Stand 2), 12W Qi",
+        "Reverse Wireless Charging": "Battery Share"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 7",
+        "Bluetooth": "5.3",
+        "NFC": "Yes",
+        "USB": "USB-C 3.2"
+      },
+      "Design": {
+        "Dimensions": "150.5 x 70.8 x 8.9 mm",
+        "Weight": "187 g",
+        "Build": "Aluminium frame, Gorilla Glass Victus back",
+        "Water Resistance": "IP68",
+        "Colours": "Obsidian, Hazel, Rose"
+      },
+      "Security": {
+        "Biometrics": "Fingerprint Unlock and Face Unlock"
+      }
+    },
+    "features": [
+      "Magic Eraser, Best Take and Magic Editor",
+      "Audio Magic Eraser for videos",
+      "Call Screen and Hold for Me",
+      "7 years of Android updates",
+      "Night Sight and Real Tone photography",
+      "Live Translate and Recorder transcription",
+      "IP68 water and dust resistance"
+    ],
+    "pros": [
+      "One of the best point-and-shoot cameras",
+      "Clean Android with very long updates",
+      "Compact size"
+    ],
+    "cons": [
+      "Tensor G3 runs warm and is slower than Snapdragon in games",
+      "Slow 27W charging",
+      "No telephoto lens"
+    ],
+    "in_the_box": [
+      "Pixel 8",
+      "USB-C to USB-C cable (1 m)",
+      "Quick Switch Adapter",
+      "SIM tool",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/google_pixel_8_1.jpg",
+      "shubham_data/images/google_pixel_8_2.jpg",
+      "shubham_data/images/google_pixel_8_3.jpg"
+    ]
+  },
+  {
+    "name": "OnePlus 12",
+    "brand": "OnePlus",
+    "category": "Mobile",
+    "price": 64999,
+    "description": "The OnePlus 12 is a powerful flagship with the Snapdragon 8 Gen 3 chip, a very bright 2K LTPO display and a Hasselblad-tuned triple camera. It also has very fast 80W wired and 50W wireless charging.",
+    "specifications": {
+      "General": {
+        "Launch": "January 2024",
+        "Operating System": "Android 14 with OxygenOS 14",
+        "Software Updates": "4 OS updates, 5 years of security updates",
+        "SIM": "Dual Nano-SIM"
+      },
+      "Display": {
+        "Size": "6.82 inches",
+        "Type": "ProXDR LTPO 4.0 AMOLED",
+        "Resolution": "3168 x 1440 pixels (QHD+)",
+        "Refresh Rate": "Adaptive 1-120 Hz",
+        "Peak Brightness": "4500 nits",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Performance": {
+        "Chipset": "Qualcomm Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core, up to 3.3 GHz",
+        "GPU": "Adreno 750",
+        "RAM": "12 GB / 16 GB LPDDR5X",
+        "Storage Options": "256 GB / 512 GB UFS 4.0",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Main Camera": "50MP Sony LYT-808, f/1.6, OIS",
+        "Ultra Wide Camera": "48MP, f/2.2, 114°",
+        "Telephoto Camera": "64MP 3x periscope, f/2.6, OIS",
+        "Front Camera": "32MP, f/2.4",
+        "Video Recording": "8K at 24 fps, 4K at 60 fps, Dolby Vision"
+      },
+      "Battery & Charging": {
+        "Battery": "5400 mAh",
+        "Wired Charging": "80W SUPERVOOC",
+        "Wireless Charging": "50W AIRVOOC",
+        "Reverse Wireless Charging": "10W"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 7",
+        "Bluetooth": "5.4",
+        "NFC": "Yes",
+        "Infrared": "IR blaster",
+        "USB": "USB-C 3.2 Gen 1"
+      },
+      "Design": {
+        "Dimensions": "164.3 x 75.8 x 9.15 mm",
+        "Weight": "220 g",
+        "Build": "Aluminium frame, glass back",
+        "Water Resistance": "IP65",
+        "Colours": "Flowy Emerald, Silky Black"
+      },
+      "Security": {
+        "Biometrics": "In-display fingerprint sensor, face unlock"
+      }
+    },
+    "features": [
+      "Snapdragon 8 Gen 3 flagship performance",
+      "Hasselblad camera tuning",
+      "80W SUPERVOOC charger included in the box",
+      "50W AIRVOOC wireless charging",
+      "4500-nit 2K LTPO display",
+      "Alert Slider for quick sound profiles",
+      "Aqua Touch for using the screen with wet hands",
+      "IR blaster to control home appliances"
+    ],
+    "pros": [
+      "Excellent performance and battery life",
+      "Very fast wired and wireless charging",
+      "Bright, sharp display"
+    ],
+    "cons": [
+      "Only IP65 water resistance",
+      "Large and heavy",
+      "Telephoto camera weaker in low light"
+    ],
+    "in_the_box": [
+      "OnePlus 12",
+      "80W SUPERVOOC Power Adapter",
+      "USB-C cable",
+      "Protective case",
+      "SIM tray ejector",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/oneplus_12_1.jpg",
+      "shubham_data/images/oneplus_12_2.jpg",
+      "shubham_data/images/oneplus_12_3.jpg"
+    ]
+  },
+  {
+    "name": "OnePlus Nord CE 4",
+    "brand": "OnePlus",
+    "category": "Mobile",
+    "price": 24999,
+    "description": "The OnePlus Nord CE 4 is an affordable mid-range phone that focuses on fast charging and a smooth experience. It has a 120 Hz AMOLED display, the Snapdragon 7 Gen 3 chip and 100W SUPERVOOC charging with the charger in the box.",
+    "specifications": {
+      "General": {
+        "Launch": "April 2024",
+        "Operating System": "Android 14 with OxygenOS 14",
+        "Software Updates": "2 OS updates, 3 years of security updates",
+        "SIM": "Dual SIM (hybrid slot)"
+      },
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "Fluid AMOLED",
+        "Resolution": "2412 x 1080 pixels (FHD+)",
+        "Refresh Rate": "120 Hz",
+        "Peak Brightness": "1100 nits",
+        "Protection": "Panda Glass"
+      },
+      "Performance": {
+        "Chipset": "Qualcomm Snapdragon 7 Gen 3 (4 nm)",
+        "CPU": "Octa-core, up to 2.63 GHz",
+        "GPU": "Adreno 720",
+        "RAM": "8 GB LPDDR4X",
+        "Storage Options": "128 GB / 256 GB UFS 3.1",
+        "Expandable Storage": "microSD up to 1 TB"
+      },
+      "Camera": {
+        "Main Camera": "50MP Sony LYT-600, f/1.8, OIS",
+        "Ultra Wide Camera": "8MP, f/2.2, 112°",
+        "Front Camera": "16MP, f/2.4",
+        "Video Recording": "4K at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "5500 mAh",
+        "Wired Charging": "100W SUPERVOOC (1-100% in about 29 minutes)",
+        "Wireless Charging": "No"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.4",
+        "Infrared": "IR blaster",
+        "USB": "USB-C 2.0"
+      },
+      "Design": {
+        "Dimensions": "162.5 x 75.3 x 8.4 mm",
+        "Weight": "186 g",
+        "Build": "Plastic frame and back",
+        "Water Resistance": "IP54",
+        "Colours": "Dark Chrome, Celadon Marble"
+      },
+      "Security": {
+        "Biometrics": "In-display fingerprint sensor, face unlock"
+      }
+    },
+    "features": [
+      "100W SUPERVOOC fast charging",
+      "Large 5500 mAh battery",
+      "50MP Sony LYT-600 camera with OIS",
+      "Aqua Touch for wet-hand use",
+      "Expandable storage up to 1 TB",
+      "Dual stereo speakers",
+      "Slim 8.4 mm design"
+    ],
+    "pros": [
+      "Extremely fast charging with charger included",
+      "Good battery life",
+      "Smooth performance for the price"
+    ],
+    "cons": [
+      "Plastic build",
+      "Basic 8MP ultra wide camera",
+      "Shorter update policy than Samsung"
+    ],
+    "in_the_box": [
+      "OnePlus Nord CE 4",
+      "100W SUPERVOOC Power Adapter",
+      "USB-C cable",
+      "Protective case",
+      "SIM tray ejector",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/oneplus_nord_ce_4_1.jpg",
+      "shubham_data/images/oneplus_nord_ce_4_2.jpg",
+      "shubham_data/images/oneplus_nord_ce_4_3.jpg"
+    ]
+  },
+  {
+    "name": "Redmi Note 13 Pro",
+    "brand": "Xiaomi",
+    "category": "Mobile",
+    "price": 25999,
+    "description": "The Redmi Note 13 Pro 5G brings a 200MP OIS camera and a sharp 1.5K AMOLED display to the budget segment. It is powered by the Snapdragon 7s Gen 2 chip and supports 67W turbo charging.",
+    "specifications": {
+      "General": {
+        "Launch": "January 2024",
+        "Operating System": "Android 13 with MIUI 14 (upgradable to HyperOS)",
+        "SIM": "Dual Nano-SIM"
+      },
+      "Display": {
+        "Size": "6.67 inches",
+        "Type": "1.5K AMOLED",
+        "Resolution": "2712 x 1220 pixels",
+        "Refresh Rate": "120 Hz",
+        "Peak Brightness": "1800 nits",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Performance": {
+        "Chipset": "Qualcomm Snapdragon 7s Gen 2 (4 nm)",
+        "CPU": "Octa-core, up to 2.4 GHz",
+        "GPU": "Adreno 710",
+        "RAM": "8 GB / 12 GB",
+        "Storage Options": "128 GB / 256 GB / 512 GB",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Main Camera": "200MP Samsung ISOCELL HP3, f/1.65, OIS",
+        "Ultra Wide Camera": "8MP, f/2.2",
+        "Macro Camera": "2MP, f/2.4",
+        "Front Camera": "16MP, f/2.4",
+        "Video Recording": "4K at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "5100 mAh",
+        "Wired Charging": "67W Turbo Charging",
+        "Wireless Charging": "No"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.2",
+        "Infrared": "IR blaster",
+        "USB": "USB-C 2.0"
+      },
+      "Design": {
+        "Dimensions": "161.15 x 74.24 x 7.98 mm",
+        "Weight": "187 g",
+        "Build": "Plastic frame, glass back",
+        "Water Resistance": "IP54",
+        "Colours": "Midnight Black, Arctic White, Coral Purple"
+      },
+      "Security": {
+        "Biometrics": "In-display fingerprint sensor, face unlock"
+      }
+    },
+    "features": [
+      "200MP main camera with OIS",
+      "1.5K AMOLED display with 1800 nits",
+      "67W charger included",
+      "Gorilla Glass Victus protection",
+      "Dolby Atmos stereo speakers",
+      "IR blaster",
+      "Slim under-8 mm body"
+    ],
+    "pros": [
+      "Very detailed photos in daylight",
+      "Sharp, bright display",
+      "Good value for money"
+    ],
+    "cons": [
+      "Pre-installed bloatware and ads",
+      "Average low-light ultra wide photos",
+      "No expandable storage"
+    ],
+    "in_the_box": [
+      "Redmi Note 13 Pro 5G",
+      "67W Power Adapter",
+      "USB-C cable",
+      "Protective case",
+      "SIM eject tool",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/redmi_note_13_pro_1.jpg",
+      "shubham_data/images/redmi_note_13_pro_2.jpg",
+      "shubham_data/images/redmi_note_13_pro_3.jpg"
+    ]
+  },
+  {
+    "name": "Nothing Phone (2a)",
+    "brand": "Nothing",
+    "category": "Mobile",
+    "price": 23999,
+    "description": "The Nothing Phone (2a) is a mid-range phone with Nothing's signature transparent design and Glyph lights. It runs a clean, ad-free Nothing OS on the MediaTek Dimensity 7200 Pro chip and has dual 50MP rear cameras.",
+    "specifications": {
+      "General": {
+        "Launch": "March 2024",
+        "Operating System": "Android 14 with Nothing OS 2.5",
+        "Software Updates": "3 OS updates, 4 years of security updates",
+        "SIM": "Dual Nano-SIM"
+      },
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "Flexible AMOLED",
+        "Resolution": "2412 x 1084 pixels (FHD+)",
+        "Refresh Rate": "Adaptive 30-120 Hz",
+        "Peak Brightness": "1300 nits",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Performance": {
+        "Chipset": "MediaTek Dimensity 7200 Pro (4 nm)",
+        "CPU": "Octa-core, up to 2.8 GHz",
+        "GPU": "Mali-G610 MC4",
+        "RAM": "8 GB / 12 GB LPDDR4X",
+        "Storage Options": "128 GB / 256 GB UFS 3.1",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Main Camera": "50MP Samsung GN9, f/1.88, OIS",
+        "Ultra Wide Camera": "50MP Samsung JN1, f/2.2, 114°",
+        "Front Camera": "32MP, f/2.2",
+        "Video Recording": "4K at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "5000 mAh",
+        "Wired Charging": "45W",
+        "Wireless Charging": "No"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.3",
+        "NFC": "Yes",
+        "USB": "USB-C 2.0"
+      },
+      "Design": {
+        "Dimensions": "161.74 x 76.32 x 8.55 mm",
+        "Weight": "190 g",
+        "Build": "Plastic frame and transparent back",
+        "Water Resistance": "IP54",
+        "Colours": "Black, White"
+      },
+      "Security": {
+        "Biometrics": "In-display fingerprint sensor, face unlock"
+      }
+    },
+    "features": [
+      "Glyph Interface lights for notifications and timers",
+      "Clean Nothing OS without ads or bloatware",
+      "Two 50MP rear cameras",
+      "45W fast charging",
+      "Smooth 120 Hz AMOLED display",
+      "Unique transparent design"
+    ],
+    "pros": [
+      "Distinctive design",
+      "Clean and fast software",
+      "Good battery life"
+    ],
+    "cons": [
+      "No charger in the box",
+      "Only IP54 rating",
+      "Plastic build"
+    ],
+    "in_the_box": [
+      "Nothing Phone (2a)",
+      "USB-C to USB-C cable",
+      "SIM tray ejector",
+      "Safety information"
+    ],
+    "images": [
+      "shubham_data/images/nothing_phone_2a_1.jpg",
+      "shubham_data/images/nothing_phone_2a_2.jpg",
+      "shubham_data/images/nothing_phone_2a_3.jpg"
+    ]
+  },
+  {
+    "name": "Vivo V30",
+    "brand": "Vivo",
+    "category": "Mobile",
+    "price": 33999,
+    "description": "The Vivo V30 is a slim, stylish phone built for portrait photography. It has 50MP front and rear cameras, Vivo's Aura Light ring flash, a curved 120 Hz AMOLED display and 80W fast charging.",
+    "specifications": {
+      "General": {
+        "Launch": "March 2024",
+        "Operating System": "Android 14 with Funtouch OS 14",
+        "SIM": "Dual Nano-SIM"
+      },
+      "Display": {
+        "Size": "6.78 inches",
+        "Type": "3D curved AMOLED",
+        "Resolution": "2800 x 1260 pixels (1.5K)",
+        "Refresh Rate": "120 Hz",
+        "Peak Brightness": "2800 nits"
+      },
+      "Performance": {
+        "Chipset": "Qualcomm Snapdragon 7 Gen 3 (4 nm)",
+        "CPU": "Octa-core, up to 2.63 GHz",
+        "GPU": "Adreno 720",
+        "RAM": "8 GB / 12 GB",
+        "Storage Options": "128 GB / 256 GB / 512 GB",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Main Camera": "50MP, f/1.88, OIS",
+        "Ultra Wide Camera": "50MP, f/2.0, 119°",
+        "Front Camera": "50MP, f/2.0, autofocus",
+        "Flash": "Aura Light portrait flash",
+        "Video Recording": "4K at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "5000 mAh",
+        "Wired Charging": "80W FlashCharge",
+        "Wireless Charging": "No"
+      },
+      "Connectivity": {
+        "Network": "5G",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.4",
+        "USB": "USB-C 2.0"
+      },
+      "Design": {
+        "Dimensions": "164.36 x 75.1 x 7.45 mm",
+        "Weight": "186 g",
+        "Build": "Plastic frame, glass back",
+        "Water Resistance": "IP54",
+        "Colours": "Andaman Blue, Peacock Green, Classic Black"
+      },
+      "Security": {
+        "Biometrics": "In-display fingerprint sensor, face unlock"
+      }
+    },
+    "features": [
+      "Aura Light portrait flash for soft lighting",
+      "50MP autofocus selfie camera",
+      "Slim 7.45 mm body",
+      "Curved 1.5K AMOLED display",
+      "80W FlashCharge",
+      "Studio-quality portrait modes"
+    ],
+    "pros": [
+      "Very slim and light for a 5000 mAh phone",
+      "Excellent selfies and portraits",
+      "Bright curved display"
+    ],
+    "cons": [
+      "Funtouch OS has pre-installed apps",
+      "Curved screen can cause accidental touches",
+      "Only IP54 rating"
+    ],
+    "in_the_box": [
+      "Vivo V30",
+      "80W FlashCharge adapter",
+      "USB-C cable",
+      "Protective case",
+      "SIM ejector",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/vivo_v30_1.jpg",
+      "shubham_data/images/vivo_v30_2.jpg",
+      "shubham_data/images/vivo_v30_3.jpg"
+    ]
+  },
+  {
+    "name": "MacBook Air M2",
+    "brand": "Apple",
+    "category": "Laptop",
+    "price": 99900,
+    "description": "The MacBook Air with M2 is a thin, fanless laptop with a redesigned flat-edge body, a 13.6-inch Liquid Retina display and MagSafe charging. It is silent, light and offers all-day battery life for students and everyday work.",
+    "specifications": {
+      "General": {
+        "Launch": "July 2022",
+        "Operating System": "macOS (upgradable)",
+        "Model": "13-inch MacBook Air (M2, 2022)"
+      },
+      "Display": {
+        "Size": "13.6 inches",
+        "Type": "Liquid Retina (LED-backlit IPS)",
+        "Resolution": "2560 x 1664 pixels (224 ppi)",
+        "Brightness": "500 nits",
+        "Colour": "Wide colour (P3), True Tone"
+      },
+      "Performance": {
+        "Processor": "Apple M2",
+        "CPU": "8-core (4 performance + 4 efficiency)",
+        "Graphics": "8-core GPU",
+        "Neural Engine": "16-core",
+        "Memory": "8 GB unified memory (configurable up to 24 GB)",
+        "Storage": "256 GB SSD (configurable up to 2 TB)"
+      },
+      "Battery & Power": {
+        "Battery": "52.6 Wh lithium-polymer",
+        "Battery Life": "Up to 18 hours video playback, 15 hours web browsing",
+        "Power Adapter": "30W USB-C",
+        "Fast Charging": "Supported with 67W adapter"
+      },
+      "Ports & Connectivity": {
+        "Ports": "MagSafe 3, 2x Thunderbolt / USB 4, 3.5 mm headphone jack",
+        "External Display": "1 external display up to 6K",
+        "Wi-Fi": "Wi-Fi 6 (802.11ax)",
+        "Bluetooth": "5.3"
+      },
+      "Audio & Camera": {
+        "Webcam": "1080p FaceTime HD camera",
+        "Speakers": "Four-speaker sound system with Spatial Audio",
+        "Microphones": "Three-mic array with directional beamforming"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Backlit Magic Keyboard",
+        "Touch ID": "Yes",
+        "Trackpad": "Force Touch trackpad"
+      },
+      "Design": {
+        "Dimensions": "30.41 x 21.5 x 1.13 cm",
+        "Weight": "1.24 kg",
+        "Build": "100% recycled aluminium enclosure",
+        "Cooling": "Fanless (silent)",
+        "Colours": "Midnight, Starlight, Space Grey, Silver"
+      }
+    },
+    "features": [
+      "Fanless design that is completely silent",
+      "Up to 18 hours of battery life",
+      "MagSafe 3 charging port",
+      "1080p FaceTime HD camera",
+      "Touch ID for login and Apple Pay",
+      "Four-speaker system with Spatial Audio",
+      "Works seamlessly with iPhone and iPad"
+    ],
+    "pros": [
+      "Thin, light and silent",
+      "Excellent battery life",
+      "Sharp, bright display"
+    ],
+    "cons": [
+      "Base model has only 8 GB RAM and 256 GB storage",
+      "Supports only one external display",
+      "Only two USB-C ports"
+    ],
+    "in_the_box": [
+      "MacBook Air",
+      "30W USB-C Power Adapter",
+      "USB-C to MagSafe 3 Cable (2 m)"
+    ],
+    "images": [
+      "shubham_data/images/macbook_air_m2_1.jpg",
+      "shubham_data/images/macbook_air_m2_2.jpg",
+      "shubham_data/images/macbook_air_m2_3.jpg"
+    ]
+  },
+  {
+    "name": "MacBook Pro 14 M3",
+    "brand": "Apple",
+    "category": "Laptop",
+    "price": 169900,
+    "description": "The 14-inch MacBook Pro with M3 is a professional laptop with a mini-LED Liquid Retina XDR display, a six-speaker sound system and up to 22 hours of battery life. It adds an HDMI port and SD card slot for creators.",
+    "specifications": {
+      "General": {
+        "Launch": "November 2023",
+        "Operating System": "macOS (upgradable)",
+        "Model": "14-inch MacBook Pro (M3, 2023)"
+      },
+      "Display": {
+        "Size": "14.2 inches",
+        "Type": "Liquid Retina XDR (mini-LED)",
+        "Resolution": "3024 x 1964 pixels (254 ppi)",
+        "Refresh Rate": "ProMotion up to 120 Hz",
+        "Brightness": "600 nits SDR, 1000 nits sustained XDR, 1600 nits peak HDR",
+        "Colour": "Wide colour (P3), True Tone"
+      },
+      "Performance": {
+        "Processor": "Apple M3 (3 nm)",
+        "CPU": "8-core (4 performance + 4 efficiency)",
+        "Graphics": "10-core GPU with hardware ray tracing",
+        "Neural Engine": "16-core",
+        "Memory": "8 GB unified memory (configurable up to 24 GB)",
+        "Storage": "512 GB SSD (configurable up to 2 TB)"
+      },
+      "Battery & Power": {
+        "Battery": "70 Wh lithium-polymer",
+        "Battery Life": "Up to 22 hours video playback, 15 hours web browsing",
+        "Power Adapter": "70W USB-C"
+      },
+      "Ports & Connectivity": {
+        "Ports": "MagSafe 3, 2x Thunderbolt / USB 4, HDMI, SDXC card slot, 3.5 mm headphone jack",
+        "External Display": "1 external display",
+        "Wi-Fi": "Wi-Fi 6E",
+        "Bluetooth": "5.3"
+      },
+      "Audio & Camera": {
+        "Webcam": "1080p FaceTime HD camera",
+        "Speakers": "Six-speaker system with force-cancelling woofers, Spatial Audio",
+        "Microphones": "Studio-quality three-mic array"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Backlit Magic Keyboard",
+        "Touch ID": "Yes",
+        "Trackpad": "Force Touch trackpad"
+      },
+      "Design": {
+        "Dimensions": "31.26 x 22.12 x 1.55 cm",
+        "Weight": "1.55 kg",
+        "Build": "Aluminium unibody",
+        "Cooling": "Single fan",
+        "Colours": "Space Grey, Silver"
+      }
+    },
+    "features": [
+      "Liquid Retina XDR mini-LED display",
+      "120 Hz ProMotion",
+      "Hardware-accelerated ray tracing on M3",
+      "Up to 22 hours of battery life",
+      "HDMI port and SDXC card slot",
+      "Six-speaker sound system",
+      "Studio-quality microphones"
+    ],
+    "pros": [
+      "Outstanding display for photo and video work",
+      "Excellent battery life",
+      "Great speakers and build quality"
+    ],
+    "cons": [
+      "Base model has only 8 GB RAM",
+      "Only two Thunderbolt ports on M3 model",
+      "Expensive"
+    ],
+    "in_the_box": [
+      "14-inch MacBook Pro",
+      "70W USB-C Power Adapter",
+      "USB-C to MagSafe 3 Cable (2 m)"
+    ],
+    "images": [
+      "shubham_data/images/macbook_pro_14_m3_1.jpg",
+      "shubham_data/images/macbook_pro_14_m3_2.jpg",
+      "shubham_data/images/macbook_pro_14_m3_3.jpg"
+    ]
+  },
+  {
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "category": "Laptop",
+    "price": 139990,
+    "description": "The Dell XPS 13 (9340) is a premium ultrabook with an Intel Core Ultra processor and a dedicated AI engine. It has a futuristic design with a zero-lattice keyboard, a capacitive function row and a seamless glass haptic touchpad.",
+    "specifications": {
+      "General": {
+        "Launch": "2024",
+        "Model": "XPS 13 9340",
+        "Operating System": "Windows 11 Home"
+      },
+      "Display": {
+        "Size": "13.4 inches",
+        "Type": "InfinityEdge IPS, anti-glare",
+        "Resolution": "1920 x 1200 pixels (FHD+)",
+        "Refresh Rate": "120 Hz",
+        "Brightness": "500 nits"
+      },
+      "Performance": {
+        "Processor": "Intel Core Ultra 7 155H",
+        "CPU": "16 cores, 22 threads, up to 4.8 GHz",
+        "AI Engine": "Intel AI Boost NPU",
+        "Graphics": "Intel Arc Graphics",
+        "Memory": "16 GB LPDDR5x (soldered)",
+        "Storage": "512 GB PCIe NVMe SSD"
+      },
+      "Battery & Power": {
+        "Battery": "55 Wh, 3-cell",
+        "Power Adapter": "60W USB-C"
+      },
+      "Ports & Connectivity": {
+        "Ports": "2x Thunderbolt 4 (USB-C with Power Delivery and DisplayPort)",
+        "Headphone Jack": "No (USB-C to 3.5 mm adapter)",
+        "Wi-Fi": "Wi-Fi 7",
+        "Bluetooth": "5.4"
+      },
+      "Audio & Camera": {
+        "Webcam": "FHD 1080p IR camera with Windows Hello",
+        "Speakers": "Quad speakers (2W x 2 woofers + tweeters)",
+        "Microphones": "Dual-array microphones"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Zero-lattice backlit keyboard with Copilot key",
+        "Function Row": "Capacitive touch function row",
+        "Touchpad": "Seamless glass haptic touchpad",
+        "Fingerprint Reader": "In power button"
+      },
+      "Design": {
+        "Dimensions": "29.53 x 19.91 x 1.53 cm",
+        "Weight": "1.19 kg",
+        "Build": "CNC-machined aluminium with Gorilla Glass 3 palm rest",
+        "Colours": "Platinum, Graphite"
+      }
+    },
+    "features": [
+      "Intel Core Ultra processor with built-in AI NPU",
+      "Copilot key for Windows AI features",
+      "Zero-lattice keyboard and haptic glass touchpad",
+      "Capacitive touch function row",
+      "Windows Hello IR camera",
+      "Thunderbolt 4 and Wi-Fi 7",
+      "Premium CNC aluminium body"
+    ],
+    "pros": [
+      "Very compact and premium design",
+      "Strong performance in a small body",
+      "Bright 120 Hz display"
+    ],
+    "cons": [
+      "Only two USB-C ports and no headphone jack",
+      "Function row hard to use without looking",
+      "RAM cannot be upgraded"
+    ],
+    "in_the_box": [
+      "Dell XPS 13 laptop",
+      "60W USB-C power adapter",
+      "USB-C to USB-A adapter",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/dell_xps_13_1.jpg",
+      "shubham_data/images/dell_xps_13_2.jpg",
+      "shubham_data/images/dell_xps_13_3.jpg"
+    ]
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "brand": "Dell",
+    "category": "Laptop",
+    "price": 54990,
+    "description": "The Dell Inspiron 15 (3530) is an everyday laptop for students and home users. It offers a 120 Hz Full HD display, a 13th-gen Intel Core i5 processor, 16 GB RAM and a full-size keyboard with number pad.",
+    "specifications": {
+      "General": {
+        "Launch": "2023",
+        "Model": "Inspiron 15 3530",
+        "Operating System": "Windows 11 Home with MS Office Home & Student 2021"
+      },
+      "Display": {
+        "Size": "15.6 inches",
+        "Type": "WVA anti-glare, narrow border",
+        "Resolution": "1920 x 1080 pixels (FHD)",
+        "Refresh Rate": "120 Hz",
+        "Brightness": "250 nits"
+      },
+      "Performance": {
+        "Processor": "Intel Core i5-1335U (13th Gen)",
+        "CPU": "10 cores, 12 threads, up to 4.6 GHz",
+        "Graphics": "Intel Iris Xe",
+        "Memory": "16 GB DDR4 (2 slots, upgradable)",
+        "Storage": "512 GB PCIe NVMe SSD"
+      },
+      "Battery & Power": {
+        "Battery": "41 Wh, 3-cell",
+        "Power Adapter": "65W"
+      },
+      "Ports & Connectivity": {
+        "Ports": "1x USB-C 3.2 Gen 1 (data), 2x USB-A 3.2 Gen 1, HDMI 1.4, SD card reader, headphone/mic jack",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.2"
+      },
+      "Audio & Camera": {
+        "Webcam": "HD 720p camera with privacy shutter",
+        "Speakers": "Stereo speakers with Waves MaxxAudio Pro"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Full-size keyboard with numeric keypad",
+        "Fingerprint Reader": "Optional in power button"
+      },
+      "Design": {
+        "Dimensions": "35.85 x 23.56 x 1.90 cm",
+        "Weight": "1.65 kg",
+        "Build": "Plastic chassis",
+        "Colours": "Carbon Black, Platinum Silver"
+      }
+    },
+    "features": [
+      "Smooth 120 Hz Full HD display",
+      "13th-gen Intel Core i5 processor",
+      "16 GB RAM with free slots for upgrade",
+      "Full keyboard with numeric keypad",
+      "Webcam privacy shutter",
+      "MS Office Home & Student 2021 included",
+      "SD card reader"
+    ],
+    "pros": [
+      "Good value for everyday work",
+      "120 Hz display is rare at this price",
+      "Easy to upgrade RAM and storage"
+    ],
+    "cons": [
+      "Average battery life",
+      "Display brightness is low for outdoor use",
+      "Plastic build"
+    ],
+    "in_the_box": [
+      "Dell Inspiron 15 laptop",
+      "65W power adapter with cable",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/dell_inspiron_15_1.jpg",
+      "shubham_data/images/dell_inspiron_15_2.jpg",
+      "shubham_data/images/dell_inspiron_15_3.jpg"
+    ]
+  },
+  {
+    "name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "Laptop",
+    "price": 62990,
+    "description": "The HP Pavilion 15 is a stylish mid-range laptop with a metal finish, Audio by B&O and a backlit keyboard. It is a good all-rounder for college, office work and entertainment.",
+    "specifications": {
+      "General": {
+        "Launch": "2022",
+        "Model": "Pavilion 15-eg2xxx",
+        "Operating System": "Windows 11 Home with MS Office Home & Student 2021"
+      },
+      "Display": {
+        "Size": "15.6 inches",
+        "Type": "IPS, micro-edge, anti-glare",
+        "Resolution": "1920 x 1080 pixels (FHD)",
+        "Refresh Rate": "60 Hz",
+        "Brightness": "250 nits"
+      },
+      "Performance": {
+        "Processor": "Intel Core i5-1235U (12th Gen)",
+        "CPU": "10 cores, 12 threads, up to 4.4 GHz",
+        "Graphics": "Intel Iris Xe",
+        "Memory": "16 GB DDR4-3200",
+        "Storage": "512 GB PCIe NVMe SSD"
+      },
+      "Battery & Power": {
+        "Battery": "41 Wh, 3-cell",
+        "Fast Charging": "HP Fast Charge (50% in about 45 minutes)",
+        "Power Adapter": "65W"
+      },
+      "Ports & Connectivity": {
+        "Ports": "1x USB-C (10 Gbps, Power Delivery, DisplayPort), 2x USB-A 5 Gbps, HDMI 2.1, SD card reader, headphone/mic combo",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.2"
+      },
+      "Audio & Camera": {
+        "Webcam": "HP Wide Vision 720p HD camera",
+        "Speakers": "Dual speakers, Audio by B&O",
+        "Microphones": "Dual-array digital microphones"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Full-size backlit keyboard with numeric keypad",
+        "Fingerprint Reader": "Yes"
+      },
+      "Design": {
+        "Dimensions": "36.02 x 23.4 x 1.79 cm",
+        "Weight": "1.75 kg",
+        "Build": "Aluminium keyboard deck and lid",
+        "Colours": "Natural Silver, Fog Blue"
+      }
+    },
+    "features": [
+      "Audio by Bang & Olufsen",
+      "HP Fast Charge",
+      "Backlit keyboard with numeric keypad",
+      "Fingerprint reader for Windows Hello",
+      "USB-C with Power Delivery and DisplayPort",
+      "Metal finish design",
+      "MS Office Home & Student 2021 included"
+    ],
+    "pros": [
+      "Premium-looking metal design",
+      "Good keyboard and speakers",
+      "Useful port selection including USB-C"
+    ],
+    "cons": [
+      "Average 250-nit display",
+      "Battery life is only moderate",
+      "720p webcam"
+    ],
+    "in_the_box": [
+      "HP Pavilion 15 laptop",
+      "65W power adapter",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/hp_pavilion_15_1.jpg",
+      "shubham_data/images/hp_pavilion_15_2.jpg",
+      "shubham_data/images/hp_pavilion_15_3.jpg"
+    ]
+  },
+  {
+    "name": "HP Victus 15",
+    "brand": "HP",
+    "category": "Laptop",
+    "price": 69990,
+    "description": "The HP Victus 15 is an entry-level gaming laptop with an AMD Ryzen 5 processor and NVIDIA GeForce RTX 3050 graphics. Its 144 Hz display and improved cooling make it a good choice for students who also want to game.",
+    "specifications": {
+      "General": {
+        "Launch": "2023",
+        "Model": "Victus 15-fb1xxx",
+        "Operating System": "Windows 11 Home with MS Office Home & Student 2021"
+      },
+      "Display": {
+        "Size": "15.6 inches",
+        "Type": "IPS, micro-edge, anti-glare",
+        "Resolution": "1920 x 1080 pixels (FHD)",
+        "Refresh Rate": "144 Hz",
+        "Brightness": "250 nits"
+      },
+      "Performance": {
+        "Processor": "AMD Ryzen 5 7535HS",
+        "CPU": "6 cores, 12 threads, up to 4.55 GHz",
+        "Graphics": "NVIDIA GeForce RTX 3050 (4 GB GDDR6)",
+        "Memory": "16 GB DDR5-4800 (upgradable)",
+        "Storage": "512 GB PCIe NVMe SSD"
+      },
+      "Battery & Power": {
+        "Battery": "52.5 Wh, 3-cell",
+        "Power Adapter": "200W"
+      },
+      "Ports & Connectivity": {
+        "Ports": "1x USB-C 5 Gbps (DisplayPort), 3x USB-A 5 Gbps, HDMI 2.1, RJ-45 Ethernet, headphone/mic combo",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.3"
+      },
+      "Audio & Camera": {
+        "Webcam": "HP Wide Vision 720p HD camera with dual microphones",
+        "Speakers": "Dual speakers, Audio by B&O"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Full-size backlit keyboard with numeric keypad"
+      },
+      "Design": {
+        "Dimensions": "35.79 x 25.5 x 2.35 cm",
+        "Weight": "2.29 kg",
+        "Cooling": "Dual fans with enlarged vents",
+        "Colours": "Mica Silver, Performance Blue"
+      }
+    },
+    "features": [
+      "NVIDIA GeForce RTX 3050 with DLSS support",
+      "144 Hz gaming display",
+      "OMEN Gaming Hub for performance control",
+      "Upgradable DDR5 memory",
+      "Ethernet port for lag-free online gaming",
+      "Audio by B&O",
+      "Backlit keyboard"
+    ],
+    "pros": [
+      "Good gaming performance for the price",
+      "Smooth 144 Hz display",
+      "Easy to upgrade"
+    ],
+    "cons": [
+      "Heavy at 2.29 kg",
+      "Short battery life when gaming",
+      "Display has limited colour accuracy"
+    ],
+    "in_the_box": [
+      "HP Victus 15 laptop",
+      "200W power adapter",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/hp_victus_15_1.jpg",
+      "shubham_data/images/hp_victus_15_2.jpg",
+      "shubham_data/images/hp_victus_15_3.jpg"
+    ]
+  },
+  {
+    "name": "Lenovo ThinkPad E14",
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "price": 72990,
+    "description": "The Lenovo ThinkPad E14 Gen 5 is a business laptop known for its durable build, comfortable keyboard and TrackPoint. It has a 16:10 display, a 1080p webcam with privacy shutter and passes military-grade durability tests.",
+    "specifications": {
+      "General": {
+        "Launch": "2023",
+        "Model": "ThinkPad E14 Gen 5 (Intel)",
+        "Operating System": "Windows 11 Pro"
+      },
+      "Display": {
+        "Size": "14 inches",
+        "Type": "IPS, anti-glare, 16:10",
+        "Resolution": "1920 x 1200 pixels (WUXGA)",
+        "Refresh Rate": "60 Hz",
+        "Brightness": "300 nits"
+      },
+      "Performance": {
+        "Processor": "Intel Core i5-1335U (13th Gen)",
+        "CPU": "10 cores, 12 threads, up to 4.6 GHz",
+        "Graphics": "Intel Iris Xe",
+        "Memory": "16 GB DDR4-3200 (upgradable up to 40 GB)",
+        "Storage": "512 GB M.2 PCIe SSD (second M.2 slot available)"
+      },
+      "Battery & Power": {
+        "Battery": "47 Wh",
+        "Power Adapter": "65W USB-C",
+        "Fast Charging": "Rapid Charge (80% in 1 hour)"
+      },
+      "Ports & Connectivity": {
+        "Ports": "1x Thunderbolt 4, 1x USB-C 3.2, 2x USB-A 3.2, HDMI 2.1, RJ-45 Ethernet, headphone/mic combo",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.1"
+      },
+      "Audio & Camera": {
+        "Webcam": "FHD 1080p camera with privacy shutter",
+        "Speakers": "2x 2W speakers with Dolby Audio",
+        "Microphones": "Dual-array microphones"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Spill-resistant backlit keyboard with numeric keypad",
+        "Pointing": "TrackPoint and touchpad",
+        "Fingerprint Reader": "In power button"
+      },
+      "Design": {
+        "Dimensions": "31.3 x 21.9 x 1.8 cm",
+        "Weight": "1.41 kg",
+        "Build": "Aluminium top cover",
+        "Durability": "MIL-STD-810H tested",
+        "Colours": "Graphite Black"
+      }
+    },
+    "features": [
+      "Legendary ThinkPad keyboard with TrackPoint",
+      "MIL-STD-810H military-grade durability",
+      "Thunderbolt 4 and Ethernet port",
+      "1080p webcam with privacy shutter",
+      "Spill-resistant keyboard",
+      "Two M.2 slots and upgradable RAM",
+      "Windows 11 Pro"
+    ],
+    "pros": [
+      "Excellent keyboard for typing",
+      "Durable and reliable build",
+      "Great port selection and upgradability"
+    ],
+    "cons": [
+      "Display could be brighter",
+      "Plain business design",
+      "Speakers are average"
+    ],
+    "in_the_box": [
+      "ThinkPad E14 laptop",
+      "65W USB-C power adapter",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/lenovo_thinkpad_e14_1.jpg",
+      "shubham_data/images/lenovo_thinkpad_e14_2.jpg",
+      "shubham_data/images/lenovo_thinkpad_e14_3.jpg"
+    ]
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 5",
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "price": 67990,
+    "description": "The Lenovo IdeaPad Slim 5 is a lightweight laptop with a vivid 14-inch OLED display and an AMD Ryzen 7 processor. It is a good choice for students and professionals who want a premium screen at a mid-range price.",
+    "specifications": {
+      "General": {
+        "Launch": "2023",
+        "Model": "IdeaPad Slim 5 14ABR8",
+        "Operating System": "Windows 11 Home with MS Office Home & Student 2021"
+      },
+      "Display": {
+        "Size": "14 inches",
+        "Type": "OLED, glossy, 16:10",
+        "Resolution": "1920 x 1200 pixels (WUXGA)",
+        "Refresh Rate": "60 Hz",
+        "Brightness": "400 nits",
+        "Colour": "100% DCI-P3, TÜV low blue light"
+      },
+      "Performance": {
+        "Processor": "AMD Ryzen 7 7730U",
+        "CPU": "8 cores, 16 threads, up to 4.5 GHz",
+        "Graphics": "AMD Radeon Graphics (integrated)",
+        "Memory": "16 GB LPDDR4x (soldered)",
+        "Storage": "512 GB PCIe NVMe SSD"
+      },
+      "Battery & Power": {
+        "Battery": "56.6 Wh",
+        "Power Adapter": "65W USB-C",
+        "Fast Charging": "Rapid Charge Express"
+      },
+      "Ports & Connectivity": {
+        "Ports": "2x USB-C 3.2 (Power Delivery, DisplayPort), 1x USB-A 3.2, HDMI 1.4b, SD card reader, headphone/mic combo",
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.1"
+      },
+      "Audio & Camera": {
+        "Webcam": "FHD 1080p camera with privacy shutter",
+        "Speakers": "2x 2W speakers with Dolby Audio"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Backlit keyboard",
+        "Fingerprint Reader": "In power button"
+      },
+      "Design": {
+        "Dimensions": "31.2 x 22.1 x 1.69 cm",
+        "Weight": "1.46 kg",
+        "Build": "Aluminium top cover and bottom",
+        "Colours": "Cloud Grey"
+      }
+    },
+    "features": [
+      "14-inch OLED display with 100% DCI-P3 colour",
+      "8-core AMD Ryzen 7 processor",
+      "Rapid Charge Express",
+      "Full HD webcam with privacy shutter",
+      "Dolby Audio speakers",
+      "Charging over USB-C",
+      "Slim and light aluminium body"
+    ],
+    "pros": [
+      "Beautiful OLED display",
+      "Strong multi-core performance",
+      "Light and well built"
+    ],
+    "cons": [
+      "RAM is soldered and cannot be upgraded",
+      "Glossy screen shows reflections",
+      "Integrated graphics not suited for heavy gaming"
+    ],
+    "in_the_box": [
+      "IdeaPad Slim 5 laptop",
+      "65W USB-C power adapter",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/lenovo_ideapad_slim_5_1.jpg",
+      "shubham_data/images/lenovo_ideapad_slim_5_2.jpg",
+      "shubham_data/images/lenovo_ideapad_slim_5_3.jpg"
+    ]
+  },
+  {
+    "name": "ASUS ROG Strix G16",
+    "brand": "ASUS",
+    "category": "Laptop",
+    "price": 149990,
+    "description": "The ASUS ROG Strix G16 is a high-performance gaming laptop with an Intel Core i9 HX processor and NVIDIA GeForce RTX 4060 graphics. It has a fast 240 Hz QHD+ display, tri-fan cooling and customisable per-key RGB lighting.",
+    "specifications": {
+      "General": {
+        "Launch": "2023",
+        "Model": "ROG Strix G16 G614JV",
+        "Operating System": "Windows 11 Home with MS Office Home & Student 2021"
+      },
+      "Display": {
+        "Size": "16 inches",
+        "Type": "IPS-level, anti-glare, 16:10",
+        "Resolution": "2560 x 1600 pixels (QHD+)",
+        "Refresh Rate": "240 Hz",
+        "Response Time": "3 ms",
+        "Colour": "100% DCI-P3, G-Sync support"
+      },
+      "Performance": {
+        "Processor": "Intel Core i9-13980HX (13th Gen)",
+        "CPU": "24 cores (8P + 16E), 32 threads, up to 5.6 GHz",
+        "Graphics": "NVIDIA GeForce RTX 4060 (8 GB GDDR6), up to 140W TGP",
+        "MUX Switch": "Yes, with Advanced Optimus",
+        "Memory": "16 GB DDR5-4800 (2 slots, upgradable)",
+        "Storage": "1 TB PCIe 4.0 NVMe SSD"
+      },
+      "Battery & Power": {
+        "Battery": "90 Wh, 4-cell",
+        "Power Adapter": "280W"
+      },
+      "Ports & Connectivity": {
+        "Ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen 2, 2x USB-A 3.2 Gen 1, HDMI 2.1, 2.5G LAN, headphone/mic combo",
+        "Wi-Fi": "Wi-Fi 6E",
+        "Bluetooth": "5.3"
+      },
+      "Audio & Camera": {
+        "Webcam": "720p HD camera",
+        "Speakers": "2 speakers with Dolby Atmos and Smart Amp",
+        "Microphones": "Array microphone with AI noise cancellation"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Per-key RGB backlit keyboard",
+        "Lighting": "Aura Sync light bar"
+      },
+      "Design": {
+        "Dimensions": "35.4 x 26.4 x 2.26-3.04 cm",
+        "Weight": "2.5 kg",
+        "Cooling": "ROG Intelligent Cooling with tri-fan and liquid metal",
+        "Colours": "Eclipse Gray"
+      }
+    },
+    "features": [
+      "Intel Core i9 HX processor with 24 cores",
+      "NVIDIA RTX 4060 with DLSS 3 and ray tracing",
+      "240 Hz QHD+ display with G-Sync",
+      "MUX switch for higher FPS",
+      "Tri-fan cooling with liquid metal",
+      "Per-key RGB keyboard and Aura Sync light bar",
+      "Wi-Fi 6E and 2.5G Ethernet"
+    ],
+    "pros": [
+      "Excellent gaming and creator performance",
+      "Fast, colour-accurate high-refresh display",
+      "Good cooling under load"
+    ],
+    "cons": [
+      "Heavy and bulky",
+      "Fans get loud during gaming",
+      "Short battery life away from the charger"
+    ],
+    "in_the_box": [
+      "ROG Strix G16 laptop",
+      "280W power adapter",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/asus_rog_strix_g16_1.jpg",
+      "shubham_data/images/asus_rog_strix_g16_2.jpg",
+      "shubham_data/images/asus_rog_strix_g16_3.jpg"
+    ]
+  },
+  {
+    "name": "ASUS Vivobook 15",
+    "brand": "ASUS",
+    "category": "Laptop",
+    "price": 42990,
+    "description": "The ASUS Vivobook 15 is a budget-friendly laptop for daily tasks like browsing, online classes and office work. It offers a Full HD display, fast SSD storage and handy features like a 180-degree hinge and webcam privacy shield.",
+    "specifications": {
+      "General": {
+        "Launch": "2022",
+        "Model": "Vivobook 15 X1502ZA",
+        "Operating System": "Windows 11 Home with MS Office Home & Student 2021"
+      },
+      "Display": {
+        "Size": "15.6 inches",
+        "Type": "IPS-level, anti-glare",
+        "Resolution": "1920 x 1080 pixels (FHD)",
+        "Refresh Rate": "60 Hz",
+        "Brightness": "250 nits"
+      },
+      "Performance": {
+        "Processor": "Intel Core i3-1215U (12th Gen)",
+        "CPU": "6 cores, 8 threads, up to 4.4 GHz",
+        "Graphics": "Intel UHD Graphics",
+        "Memory": "8 GB DDR4 (upgradable up to 16 GB)",
+        "Storage": "512 GB PCIe NVMe SSD"
+      },
+      "Battery & Power": {
+        "Battery": "42 Wh, 3-cell",
+        "Power Adapter": "65W"
+      },
+      "Ports & Connectivity": {
+        "Ports": "1x USB-C 3.2 Gen 1, 2x USB-A 3.2 Gen 1, 1x USB 2.0, HDMI 1.4, headphone/mic combo",
+        "Wi-Fi": "Wi-Fi 5",
+        "Bluetooth": "5.0"
+      },
+      "Audio & Camera": {
+        "Webcam": "720p HD camera with privacy shield",
+        "Speakers": "SonicMaster audio"
+      },
+      "Keyboard & Input": {
+        "Keyboard": "Full-size keyboard with numeric keypad",
+        "Fingerprint Reader": "Integrated in touchpad"
+      },
+      "Design": {
+        "Dimensions": "35.97 x 23.25 x 1.99 cm",
+        "Weight": "1.7 kg",
+        "Hinge": "180-degree lay-flat hinge",
+        "Colours": "Quiet Blue, Icelight Silver"
+      }
+    },
+    "features": [
+      "180-degree lay-flat hinge",
+      "Webcam privacy shield",
+      "Fingerprint sensor in touchpad",
+      "Full-size keyboard with numeric keypad",
+      "Fast 512 GB SSD",
+      "MS Office Home & Student 2021 included"
+    ],
+    "pros": [
+      "Affordable price",
+      "Light enough to carry daily",
+      "Plenty of USB ports"
+    ],
+    "cons": [
+      "Core i3 is slow for heavy multitasking",
+      "Dim display",
+      "Average battery life"
+    ],
+    "in_the_box": [
+      "ASUS Vivobook 15 laptop",
+      "65W power adapter",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/asus_vivobook_15_1.jpg",
+      "shubham_data/images/asus_vivobook_15_2.jpg",
+      "shubham_data/images/asus_vivobook_15_3.jpg"
+    ]
+  },
+  {
+    "name": "iPad (10th Gen)",
+    "brand": "Apple",
+    "category": "Tablet",
+    "price": 34900,
+    "description": "The 10th-generation iPad has an all-screen design with a 10.9-inch Liquid Retina display, the A14 Bionic chip and a USB-C port. Its front camera is placed on the landscape edge, which makes it better for video calls and online classes.",
+    "specifications": {
+      "General": {
+        "Launch": "October 2022",
+        "Operating System": "iPadOS (upgradable)"
+      },
+      "Display": {
+        "Size": "10.9 inches",
+        "Type": "Liquid Retina (LED-backlit IPS)",
+        "Resolution": "2360 x 1640 pixels (264 ppi)",
+        "Brightness": "500 nits",
+        "Features": "True Tone, anti-fingerprint coating"
+      },
+      "Performance": {
+        "Chipset": "A14 Bionic",
+        "CPU": "6-core",
+        "GPU": "4-core",
+        "Neural Engine": "16-core",
+        "RAM": "4 GB",
+        "Storage Options": "64 GB / 256 GB"
+      },
+      "Camera": {
+        "Rear Camera": "12MP wide, f/1.8",
+        "Front Camera": "12MP ultra wide on landscape edge, Center Stage",
+        "Video Recording": "4K up to 60 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "28.6 Wh",
+        "Battery Life": "Up to 10 hours web or video",
+        "Charging Port": "USB-C (USB 2)"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.2",
+        "Cellular": "Optional 5G model"
+      },
+      "Audio": {
+        "Speakers": "Landscape stereo speakers",
+        "Microphones": "Two"
+      },
+      "Design": {
+        "Dimensions": "248.6 x 179.5 x 7.0 mm",
+        "Weight": "477 g (Wi-Fi)",
+        "Colours": "Silver, Blue, Pink, Yellow"
+      },
+      "Security & Accessories": {
+        "Biometrics": "Touch ID in top button",
+        "Pencil Support": "Apple Pencil (USB-C), Apple Pencil (1st gen)",
+        "Keyboard Support": "Magic Keyboard Folio"
+      }
+    },
+    "features": [
+      "All-screen 10.9-inch Liquid Retina display",
+      "Landscape front camera with Center Stage",
+      "USB-C charging",
+      "Touch ID in the top button",
+      "Apple Pencil support for notes and drawing",
+      "Magic Keyboard Folio support",
+      "Available in four bright colours"
+    ],
+    "pros": [
+      "Affordable entry into iPadOS",
+      "Good for online classes and video calls",
+      "Long app and software support"
+    ],
+    "cons": [
+      "Display is not laminated (small air gap)",
+      "Only 64 GB in the base model",
+      "Does not support Apple Pencil 2"
+    ],
+    "in_the_box": [
+      "iPad",
+      "USB-C Charge Cable (1 m)",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/ipad_10th_gen_1.jpg",
+      "shubham_data/images/ipad_10th_gen_2.jpg",
+      "shubham_data/images/ipad_10th_gen_3.jpg"
+    ]
+  },
+  {
+    "name": "iPad Air M2",
+    "brand": "Apple",
+    "category": "Tablet",
+    "price": 59900,
+    "description": "The iPad Air with M2 brings desktop-class performance in a thin, light design. It has an 11-inch Liquid Retina display, a landscape front camera and supports the Apple Pencil Pro and Magic Keyboard.",
+    "specifications": {
+      "General": {
+        "Launch": "May 2024",
+        "Operating System": "iPadOS (upgradable)"
+      },
+      "Display": {
+        "Size": "11 inches",
+        "Type": "Liquid Retina (LED-backlit IPS), fully laminated",
+        "Resolution": "2360 x 1640 pixels (264 ppi)",
+        "Brightness": "500 nits",
+        "Features": "P3 wide colour, True Tone, anti-reflective coating"
+      },
+      "Performance": {
+        "Chipset": "Apple M2",
+        "CPU": "8-core",
+        "GPU": "9-core",
+        "Neural Engine": "16-core",
+        "RAM": "8 GB",
+        "Storage Options": "128 GB / 256 GB / 512 GB / 1 TB"
+      },
+      "Camera": {
+        "Rear Camera": "12MP wide, f/1.8",
+        "Front Camera": "12MP ultra wide on landscape edge, Center Stage",
+        "Video Recording": "4K up to 60 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "28.93 Wh",
+        "Battery Life": "Up to 10 hours web or video",
+        "Charging Port": "USB-C (USB 3, up to 10 Gb/s)"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 6E",
+        "Bluetooth": "5.3",
+        "Cellular": "Optional 5G model"
+      },
+      "Audio": {
+        "Speakers": "Landscape stereo speakers",
+        "Microphones": "Two"
+      },
+      "Design": {
+        "Dimensions": "247.6 x 178.5 x 6.1 mm",
+        "Weight": "462 g (Wi-Fi)",
+        "Colours": "Space Grey, Blue, Purple, Starlight"
+      },
+      "Security & Accessories": {
+        "Biometrics": "Touch ID in top button",
+        "Pencil Support": "Apple Pencil Pro, Apple Pencil (USB-C)",
+        "Keyboard Support": "Magic Keyboard"
+      }
+    },
+    "features": [
+      "Powerful Apple M2 chip",
+      "Apple Pencil Pro support with squeeze and barrel roll",
+      "Landscape front camera with Center Stage",
+      "Fully laminated anti-reflective display",
+      "USB-C with USB 3 speeds",
+      "Wi-Fi 6E",
+      "Stage Manager multitasking"
+    ],
+    "pros": [
+      "Laptop-level performance in a thin tablet",
+      "Great accessory support",
+      "Light and portable"
+    ],
+    "cons": [
+      "60 Hz display",
+      "Base 128 GB storage fills up quickly",
+      "Accessories are expensive"
+    ],
+    "in_the_box": [
+      "iPad Air",
+      "USB-C Charge Cable (1 m)",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/ipad_air_m2_1.jpg",
+      "shubham_data/images/ipad_air_m2_2.jpg",
+      "shubham_data/images/ipad_air_m2_3.jpg"
+    ]
+  },
+  {
+    "name": "iPad Pro M4",
+    "brand": "Apple",
+    "category": "Tablet",
+    "price": 99900,
+    "description": "The iPad Pro with M4 is Apple's thinnest product ever at 5.3 mm. It introduces the Ultra Retina XDR tandem OLED display and the powerful M4 chip, making it suitable for professional drawing, video editing and design work.",
+    "specifications": {
+      "General": {
+        "Launch": "May 2024",
+        "Operating System": "iPadOS (upgradable)"
+      },
+      "Display": {
+        "Size": "11 inches",
+        "Type": "Ultra Retina XDR (Tandem OLED)",
+        "Resolution": "2420 x 1668 pixels (264 ppi)",
+        "Refresh Rate": "ProMotion 10-120 Hz",
+        "Brightness": "1000 nits SDR, 1600 nits peak HDR",
+        "Options": "Nano-texture glass on 1 TB and 2 TB models"
+      },
+      "Performance": {
+        "Chipset": "Apple M4",
+        "CPU": "9-core (10-core on 1 TB and 2 TB)",
+        "GPU": "10-core with hardware ray tracing",
+        "Neural Engine": "16-core (38 trillion operations per second)",
+        "RAM": "8 GB (16 GB on 1 TB and 2 TB)",
+        "Storage Options": "256 GB / 512 GB / 1 TB / 2 TB"
+      },
+      "Camera": {
+        "Rear Camera": "12MP wide, f/1.8, adaptive True Tone flash",
+        "Depth Sensor": "LiDAR Scanner",
+        "Front Camera": "12MP ultra wide on landscape edge, Center Stage",
+        "Video Recording": "4K up to 60 fps, ProRes"
+      },
+      "Battery & Charging": {
+        "Battery": "31.29 Wh",
+        "Battery Life": "Up to 10 hours web or video",
+        "Charging Port": "Thunderbolt / USB 4"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 6E",
+        "Bluetooth": "5.3",
+        "Cellular": "Optional 5G model"
+      },
+      "Audio": {
+        "Speakers": "Four-speaker audio",
+        "Microphones": "Four studio-quality microphones"
+      },
+      "Design": {
+        "Dimensions": "249.7 x 177.5 x 5.3 mm",
+        "Weight": "444 g (Wi-Fi)",
+        "Build": "Aluminium",
+        "Colours": "Space Black, Silver"
+      },
+      "Security & Accessories": {
+        "Biometrics": "Face ID (landscape)",
+        "Pencil Support": "Apple Pencil Pro, Apple Pencil (USB-C)",
+        "Keyboard Support": "Magic Keyboard for iPad Pro (M4)"
+      }
+    },
+    "features": [
+      "Ultra Retina XDR tandem OLED display",
+      "Apple M4 chip with fast Neural Engine",
+      "Thinnest Apple device at 5.3 mm",
+      "120 Hz ProMotion",
+      "Face ID in landscape orientation",
+      "Thunderbolt port for fast transfers and displays",
+      "LiDAR Scanner for AR apps",
+      "Four speakers and four microphones"
+    ],
+    "pros": [
+      "Best display on any tablet",
+      "Extremely powerful and thin",
+      "Excellent for creative professionals"
+    ],
+    "cons": [
+      "Very expensive, especially with accessories",
+      "iPadOS limits some pro workflows",
+      "No headphone jack"
+    ],
+    "in_the_box": [
+      "iPad Pro",
+      "USB-C Charge Cable (1 m)",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/ipad_pro_m4_1.jpg",
+      "shubham_data/images/ipad_pro_m4_2.jpg",
+      "shubham_data/images/ipad_pro_m4_3.jpg"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Tab S9",
+    "brand": "Samsung",
+    "category": "Tablet",
+    "price": 72999,
+    "description": "The Galaxy Tab S9 is Samsung's premium compact tablet with a Dynamic AMOLED 2X display and Snapdragon 8 Gen 2 chip. It is the first Galaxy Tab with an IP68 rating, and the S Pen comes included in the box.",
+    "specifications": {
+      "General": {
+        "Launch": "August 2023",
+        "Operating System": "Android 13 with One UI 5.1.1 (upgradable)",
+        "Software Updates": "4 OS updates, 5 years of security updates"
+      },
+      "Display": {
+        "Size": "11 inches",
+        "Type": "Dynamic AMOLED 2X",
+        "Resolution": "2560 x 1600 pixels (WQXGA)",
+        "Refresh Rate": "Up to 120 Hz",
+        "Features": "Vision Booster, HDR10+"
+      },
+      "Performance": {
+        "Chipset": "Qualcomm Snapdragon 8 Gen 2 for Galaxy",
+        "CPU": "Octa-core, up to 3.36 GHz",
+        "GPU": "Adreno 740",
+        "RAM": "8 GB / 12 GB",
+        "Storage Options": "128 GB / 256 GB",
+        "Expandable Storage": "microSD up to 1 TB"
+      },
+      "Camera": {
+        "Rear Camera": "13MP, autofocus",
+        "Front Camera": "12MP ultra wide",
+        "Video Recording": "4K at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "8400 mAh",
+        "Wired Charging": "45W Super Fast Charging"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 6E",
+        "Bluetooth": "5.3",
+        "Cellular": "Optional 5G model",
+        "USB": "USB-C 3.2 Gen 1"
+      },
+      "Audio": {
+        "Speakers": "Quad speakers tuned by AKG, Dolby Atmos"
+      },
+      "Design": {
+        "Dimensions": "254.3 x 165.8 x 5.9 mm",
+        "Weight": "498 g",
+        "Build": "Armor Aluminium",
+        "Water Resistance": "IP68 (tablet and S Pen)",
+        "Colours": "Graphite, Beige"
+      },
+      "Security & Accessories": {
+        "Biometrics": "In-display fingerprint sensor",
+        "S Pen": "Included in the box",
+        "Keyboard Support": "Book Cover Keyboard"
+      }
+    },
+    "features": [
+      "S Pen included in the box",
+      "IP68 water and dust resistance",
+      "Dynamic AMOLED 2X 120 Hz display",
+      "Snapdragon 8 Gen 2 for Galaxy",
+      "Quad AKG speakers with Dolby Atmos",
+      "Samsung DeX desktop mode",
+      "Expandable storage up to 1 TB"
+    ],
+    "pros": [
+      "Beautiful AMOLED display",
+      "Flagship performance",
+      "Water resistant with S Pen included"
+    ],
+    "cons": [
+      "Expensive",
+      "No charger in the box",
+      "Android tablet apps are less optimised than iPad apps"
+    ],
+    "in_the_box": [
+      "Galaxy Tab S9",
+      "S Pen",
+      "USB-C cable",
+      "Ejection pin",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/samsung_galaxy_tab_s9_1.jpg",
+      "shubham_data/images/samsung_galaxy_tab_s9_2.jpg",
+      "shubham_data/images/samsung_galaxy_tab_s9_3.jpg"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Tab S9 FE",
+    "brand": "Samsung",
+    "category": "Tablet",
+    "price": 36999,
+    "description": "The Galaxy Tab S9 FE is a more affordable version of the Tab S9 series. It still includes the S Pen, has an IP68 rating, a 90 Hz display and expandable storage, making it ideal for students.",
+    "specifications": {
+      "General": {
+        "Launch": "October 2023",
+        "Operating System": "Android 13 with One UI 5.1 (upgradable)",
+        "Software Updates": "4 OS updates, 5 years of security updates"
+      },
+      "Display": {
+        "Size": "10.9 inches",
+        "Type": "TFT LCD",
+        "Resolution": "2304 x 1440 pixels (WQXGA)",
+        "Refresh Rate": "Up to 90 Hz"
+      },
+      "Performance": {
+        "Chipset": "Exynos 1380 (5 nm)",
+        "CPU": "Octa-core, up to 2.4 GHz",
+        "GPU": "Mali-G68 MP5",
+        "RAM": "6 GB / 8 GB",
+        "Storage Options": "128 GB / 256 GB",
+        "Expandable Storage": "microSD up to 1 TB"
+      },
+      "Camera": {
+        "Rear Camera": "8MP, autofocus",
+        "Front Camera": "12MP ultra wide",
+        "Video Recording": "4K at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "8000 mAh",
+        "Wired Charging": "45W Super Fast Charging"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.3",
+        "Cellular": "Optional 5G model",
+        "USB": "USB-C 2.0"
+      },
+      "Audio": {
+        "Speakers": "Dual speakers tuned by AKG, Dolby Atmos"
+      },
+      "Design": {
+        "Dimensions": "254.3 x 165.8 x 6.5 mm",
+        "Weight": "523 g",
+        "Build": "Metal body",
+        "Water Resistance": "IP68 (tablet and S Pen)",
+        "Colours": "Gray, Silver, Mint, Lavender"
+      },
+      "Security & Accessories": {
+        "Biometrics": "Side-key fingerprint sensor",
+        "S Pen": "Included in the box",
+        "Keyboard Support": "Book Cover Keyboard"
+      }
+    },
+    "features": [
+      "S Pen included in the box",
+      "IP68 water and dust resistance",
+      "90 Hz display",
+      "Expandable storage up to 1 TB",
+      "Samsung DeX and multi-window",
+      "AKG-tuned speakers with Dolby Atmos"
+    ],
+    "pros": [
+      "Great value with S Pen included",
+      "Water resistant",
+      "Long battery life"
+    ],
+    "cons": [
+      "LCD instead of AMOLED",
+      "Only two speakers",
+      "Mid-range performance for heavy games"
+    ],
+    "in_the_box": [
+      "Galaxy Tab S9 FE",
+      "S Pen",
+      "USB-C cable",
+      "Ejection pin",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/samsung_galaxy_tab_s9_fe_1.jpg",
+      "shubham_data/images/samsung_galaxy_tab_s9_fe_2.jpg",
+      "shubham_data/images/samsung_galaxy_tab_s9_fe_3.jpg"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Tab A9+",
+    "brand": "Samsung",
+    "category": "Tablet",
+    "price": 18999,
+    "description": "The Galaxy Tab A9+ is a budget tablet with a large 11-inch 90 Hz display and quad speakers. It is designed for streaming, browsing, online classes and kids, with a slim metal body.",
+    "specifications": {
+      "General": {
+        "Launch": "October 2023",
+        "Operating System": "Android 13 with One UI 5.1 (upgradable)"
+      },
+      "Display": {
+        "Size": "11 inches",
+        "Type": "TFT LCD",
+        "Resolution": "1920 x 1200 pixels (WUXGA)",
+        "Refresh Rate": "Up to 90 Hz"
+      },
+      "Performance": {
+        "Chipset": "Qualcomm Snapdragon 695 (6 nm)",
+        "CPU": "Octa-core, up to 2.2 GHz",
+        "GPU": "Adreno 619",
+        "RAM": "4 GB / 8 GB",
+        "Storage Options": "64 GB / 128 GB",
+        "Expandable Storage": "microSD up to 1 TB"
+      },
+      "Camera": {
+        "Rear Camera": "8MP, autofocus",
+        "Front Camera": "5MP",
+        "Video Recording": "1080p at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "7040 mAh",
+        "Wired Charging": "15W"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 5",
+        "Bluetooth": "5.1",
+        "Cellular": "Optional 5G model",
+        "USB": "USB-C 2.0"
+      },
+      "Audio": {
+        "Speakers": "Quad speakers with Dolby Atmos",
+        "Headphone Jack": "No"
+      },
+      "Design": {
+        "Dimensions": "257.1 x 168.7 x 6.9 mm",
+        "Weight": "480 g",
+        "Build": "Metal body",
+        "Colours": "Graphite, Silver, Navy"
+      },
+      "Security & Accessories": {
+        "Biometrics": "Face recognition",
+        "Kids Mode": "Samsung Kids"
+      }
+    },
+    "features": [
+      "Large 11-inch 90 Hz display",
+      "Quad speakers with Dolby Atmos",
+      "Samsung Kids mode with parental controls",
+      "Expandable storage up to 1 TB",
+      "Slim metal design",
+      "Multi-window for multitasking"
+    ],
+    "pros": [
+      "Affordable price",
+      "Good speakers for movies",
+      "Large screen"
+    ],
+    "cons": [
+      "Slow 15W charging",
+      "No stylus support",
+      "Basic cameras"
+    ],
+    "in_the_box": [
+      "Galaxy Tab A9+",
+      "USB-C cable",
+      "Ejection pin",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/samsung_galaxy_tab_a9_1.jpg",
+      "shubham_data/images/samsung_galaxy_tab_a9_2.jpg",
+      "shubham_data/images/samsung_galaxy_tab_a9_3.jpg"
+    ]
+  },
+  {
+    "name": "Xiaomi Pad 6",
+    "brand": "Xiaomi",
+    "category": "Tablet",
+    "price": 26999,
+    "description": "The Xiaomi Pad 6 offers flagship-level features at a mid-range price. It has a sharp 2.8K 144 Hz display, the Snapdragon 870 chip, quad speakers and a premium metal unibody.",
+    "specifications": {
+      "General": {
+        "Launch": "June 2023",
+        "Operating System": "Android 13 with MIUI Pad 14 (upgradable to HyperOS)"
+      },
+      "Display": {
+        "Size": "11 inches",
+        "Type": "IPS LCD",
+        "Resolution": "2880 x 1800 pixels (WQHD+)",
+        "Refresh Rate": "Up to 144 Hz",
+        "Brightness": "550 nits",
+        "Features": "Dolby Vision, HDR10"
+      },
+      "Performance": {
+        "Chipset": "Qualcomm Snapdragon 870 (7 nm)",
+        "CPU": "Octa-core, up to 3.2 GHz",
+        "GPU": "Adreno 650",
+        "RAM": "6 GB / 8 GB",
+        "Storage Options": "128 GB / 256 GB",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Rear Camera": "13MP",
+        "Front Camera": "8MP",
+        "Video Recording": "4K at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "8840 mAh",
+        "Wired Charging": "33W"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.2",
+        "USB": "USB-C 3.2"
+      },
+      "Audio": {
+        "Speakers": "Quad speakers with Dolby Atmos"
+      },
+      "Design": {
+        "Dimensions": "254.0 x 165.2 x 6.51 mm",
+        "Weight": "490 g",
+        "Build": "Metal unibody",
+        "Colours": "Graphite Grey, Mist Blue"
+      },
+      "Security & Accessories": {
+        "Biometrics": "Face unlock",
+        "Pen Support": "Xiaomi Smart Pen (2nd gen)",
+        "Keyboard Support": "Xiaomi Pad 6 Keyboard"
+      }
+    },
+    "features": [
+      "2.8K display with 144 Hz refresh rate",
+      "Snapdragon 870 for smooth gaming",
+      "Quad speakers with Dolby Atmos",
+      "Dolby Vision support",
+      "Metal unibody design",
+      "Stylus and keyboard support",
+      "33W fast charging"
+    ],
+    "pros": [
+      "Excellent display for the price",
+      "Good gaming performance",
+      "Premium build"
+    ],
+    "cons": [
+      "No expandable storage",
+      "No headphone jack",
+      "Accessories sold separately"
+    ],
+    "in_the_box": [
+      "Xiaomi Pad 6",
+      "33W charger",
+      "USB-C cable",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/xiaomi_pad_6_1.jpg",
+      "shubham_data/images/xiaomi_pad_6_2.jpg",
+      "shubham_data/images/xiaomi_pad_6_3.jpg"
+    ]
+  },
+  {
+    "name": "OnePlus Pad",
+    "brand": "OnePlus",
+    "category": "Tablet",
+    "price": 37999,
+    "description": "The OnePlus Pad is OnePlus's first tablet. It stands out with an 11.61-inch 144 Hz display in a book-like 7:5 ratio, the MediaTek Dimensity 9000 chip, a large 9510 mAh battery and 67W SUPERVOOC charging.",
+    "specifications": {
+      "General": {
+        "Launch": "April 2023",
+        "Operating System": "Android 13 with OxygenOS 13.1 (upgradable)"
+      },
+      "Display": {
+        "Size": "11.61 inches",
+        "Type": "LCD, 7:5 aspect ratio",
+        "Resolution": "2800 x 2000 pixels (296 ppi)",
+        "Refresh Rate": "Up to 144 Hz",
+        "Brightness": "500 nits",
+        "Features": "Dolby Vision, HDR10+"
+      },
+      "Performance": {
+        "Chipset": "MediaTek Dimensity 9000 (4 nm)",
+        "CPU": "Octa-core, up to 3.05 GHz",
+        "GPU": "Mali-G710 MC10",
+        "RAM": "8 GB / 12 GB LPDDR5",
+        "Storage Options": "128 GB / 256 GB UFS 3.1",
+        "Expandable Storage": "No"
+      },
+      "Camera": {
+        "Rear Camera": "13MP",
+        "Front Camera": "8MP (landscape)",
+        "Video Recording": "4K at 30 fps"
+      },
+      "Battery & Charging": {
+        "Battery": "9510 mAh",
+        "Wired Charging": "67W SUPERVOOC (full charge in about 80 minutes)",
+        "Standby": "Up to one month"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 6",
+        "Bluetooth": "5.3",
+        "USB": "USB-C 2.0"
+      },
+      "Audio": {
+        "Speakers": "Quad speakers with Dolby Atmos, Omnibearing Sound Field"
+      },
+      "Design": {
+        "Dimensions": "258.0 x 189.4 x 6.54 mm",
+        "Weight": "552 g",
+        "Build": "Aluminium alloy unibody",
+        "Colours": "Halo Green"
+      },
+      "Security & Accessories": {
+        "Biometrics": "Face unlock",
+        "Pen Support": "OnePlus Stylo",
+        "Keyboard Support": "OnePlus Magnetic Keyboard"
+      }
+    },
+    "features": [
+      "144 Hz display with 7:5 reading-friendly ratio",
+      "67W SUPERVOOC fast charging",
+      "Large 9510 mAh battery",
+      "Quad speakers with Dolby Atmos",
+      "Metal unibody with a central camera design",
+      "Share data with OnePlus phones",
+      "OnePlus Stylo and keyboard support"
+    ],
+    "pros": [
+      "Smooth, sharp display",
+      "Very fast charging and long battery life",
+      "Good performance"
+    ],
+    "cons": [
+      "No expandable storage",
+      "No fingerprint sensor",
+      "No cellular option"
+    ],
+    "in_the_box": [
+      "OnePlus Pad",
+      "67W SUPERVOOC power adapter",
+      "USB-C cable",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/oneplus_pad_1.jpg",
+      "shubham_data/images/oneplus_pad_2.jpg",
+      "shubham_data/images/oneplus_pad_3.jpg"
+    ]
+  },
+  {
+    "name": "Lenovo Tab M10 (3rd Gen)",
+    "brand": "Lenovo",
+    "category": "Tablet",
+    "price": 14999,
+    "description": "The Lenovo Tab M10 (3rd Gen) is a simple, affordable tablet for streaming, reading, video calls and kids' learning. It has a 10.1-inch Full HD display, dual Dolby Atmos speakers and Google Kids Space.",
+    "specifications": {
+      "General": {
+        "Launch": "2022",
+        "Model": "TB328FU",
+        "Operating System": "Android 11 (upgradable to Android 12)"
+      },
+      "Display": {
+        "Size": "10.1 inches",
+        "Type": "IPS LCD",
+        "Resolution": "1920 x 1200 pixels (WUXGA)",
+        "Brightness": "320 nits",
+        "Features": "TÜV Rheinland eye-care certification"
+      },
+      "Performance": {
+        "Chipset": "Unisoc T610",
+        "CPU": "Octa-core, up to 1.8 GHz",
+        "GPU": "Mali-G52",
+        "RAM": "4 GB",
+        "Storage Options": "64 GB",
+        "Expandable Storage": "microSD up to 1 TB"
+      },
+      "Camera": {
+        "Rear Camera": "8MP, autofocus",
+        "Front Camera": "5MP",
+        "Video Recording": "1080p"
+      },
+      "Battery & Charging": {
+        "Battery": "5100 mAh",
+        "Battery Life": "Up to 10 hours video playback",
+        "Wired Charging": "10W"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 5",
+        "Bluetooth": "5.0",
+        "Cellular": "Optional LTE model",
+        "USB": "USB-C 2.0"
+      },
+      "Audio": {
+        "Speakers": "Dual speakers with Dolby Atmos",
+        "Headphone Jack": "Yes, 3.5 mm"
+      },
+      "Design": {
+        "Dimensions": "240 x 159 x 8.45 mm",
+        "Weight": "460 g",
+        "Build": "Metal back",
+        "Colours": "Storm Grey"
+      },
+      "Security & Accessories": {
+        "Biometrics": "Face unlock",
+        "Kids Mode": "Google Kids Space"
+      }
+    },
+    "features": [
+      "Full HD 10.1-inch display",
+      "Dual speakers with Dolby Atmos",
+      "Google Kids Space for children",
+      "TÜV-certified eye-care display",
+      "Expandable storage up to 1 TB",
+      "3.5 mm headphone jack",
+      "Metal back design"
+    ],
+    "pros": [
+      "Low price",
+      "Good for kids and media",
+      "Headphone jack and expandable storage"
+    ],
+    "cons": [
+      "Slow performance for gaming",
+      "Slow 10W charging",
+      "Older Android version"
+    ],
+    "in_the_box": [
+      "Lenovo Tab M10 (3rd Gen)",
+      "10W charger",
+      "USB-C cable",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/lenovo_tab_m10_3rd_gen_1.jpg",
+      "shubham_data/images/lenovo_tab_m10_3rd_gen_2.jpg",
+      "shubham_data/images/lenovo_tab_m10_3rd_gen_3.jpg"
+    ]
+  },
+  {
+    "name": "Realme Pad 2",
+    "brand": "Realme",
+    "category": "Tablet",
+    "price": 19999,
+    "description": "The Realme Pad 2 is a budget tablet with a large 11.5-inch 2K display and a 120 Hz refresh rate. It has quad Dolby Atmos speakers, a big 8360 mAh battery and 33W fast charging.",
+    "specifications": {
+      "General": {
+        "Launch": "July 2023",
+        "Operating System": "Android 13 with Realme UI 4.0"
+      },
+      "Display": {
+        "Size": "11.5 inches",
+        "Type": "LCD",
+        "Resolution": "2000 x 1200 pixels (2K)",
+        "Refresh Rate": "Up to 120 Hz",
+        "Brightness": "450 nits"
+      },
+      "Performance": {
+        "Chipset": "MediaTek Helio G99 (6 nm)",
+        "CPU": "Octa-core, up to 2.2 GHz",
+        "GPU": "Mali-G57 MC2",
+        "RAM": "6 GB / 8 GB",
+        "Storage Options": "128 GB / 256 GB",
+        "Expandable Storage": "microSD up to 1 TB"
+      },
+      "Camera": {
+        "Rear Camera": "8MP",
+        "Front Camera": "8MP",
+        "Video Recording": "1080p"
+      },
+      "Battery & Charging": {
+        "Battery": "8360 mAh",
+        "Wired Charging": "33W SUPERVOOC",
+        "Reverse Charging": "Yes (wired)"
+      },
+      "Connectivity": {
+        "Wi-Fi": "Wi-Fi 5",
+        "Bluetooth": "5.2",
+        "Cellular": "Optional 4G LTE model",
+        "USB": "USB-C"
+      },
+      "Audio": {
+        "Speakers": "Quad speakers with Dolby Atmos"
+      },
+      "Design": {
+        "Dimensions": "268.6 x 160.8 x 7.2 mm",
+        "Weight": "518 g",
+        "Build": "Metal back",
+        "Colours": "Imagination Grey, Inspiration Green"
+      },
+      "Security & Accessories": {
+        "Biometrics": "Face unlock"
+      }
+    },
+    "features": [
+      "Large 11.5-inch 2K display",
+      "120 Hz refresh rate",
+      "Quad speakers with Dolby Atmos",
+      "33W SUPERVOOC fast charging",
+      "Reverse charging to charge a phone",
+      "Expandable storage up to 1 TB",
+      "Optional 4G LTE for calls and data"
+    ],
+    "pros": [
+      "Big, sharp, smooth display",
+      "Long battery life",
+      "Good speakers"
+    ],
+    "cons": [
+      "Average performance with Helio G99",
+      "Basic cameras",
+      "No stylus support"
+    ],
+    "in_the_box": [
+      "Realme Pad 2",
+      "33W SUPERVOOC charger",
+      "USB-C cable",
+      "SIM ejector (LTE model)",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/realme_pad_2_1.jpg",
+      "shubham_data/images/realme_pad_2_2.jpg",
+      "shubham_data/images/realme_pad_2_3.jpg"
+    ]
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Headphone",
+    "price": 29990,
+    "description": "The Sony WH-1000XM5 are premium wireless headphones known for industry-leading noise cancellation. They use two processors and eight microphones to block noise, and deliver detailed sound with LDAC Hi-Res audio support.",
+    "specifications": {
+      "General": {
+        "Launch": "May 2022",
+        "Type": "Over-ear, closed-back, wireless",
+        "Companion App": "Sony Headphones Connect"
+      },
+      "Audio": {
+        "Driver": "30 mm carbon fibre composite dome",
+        "Frequency Response": "4 Hz - 40,000 Hz (LDAC)",
+        "Codecs": "SBC, AAC, LDAC",
+        "Audio Upscaling": "DSEE Extreme",
+        "Spatial Audio": "360 Reality Audio"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "Active (Integrated Processor V1 + HD Noise Cancelling Processor QN1)",
+        "Noise-Cancelling Mics": "8 microphones",
+        "Ambient Sound Mode": "Yes, 20 levels",
+        "Auto NC Optimizer": "Yes"
+      },
+      "Battery & Charging": {
+        "Battery Life": "Up to 30 hours (ANC on), 40 hours (ANC off)",
+        "Quick Charge": "3 minutes for 3 hours of playback",
+        "Charging Time": "About 3.5 hours",
+        "Charging Port": "USB-C"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.2",
+        "Multipoint": "Yes (2 devices)",
+        "Wired": "3.5 mm audio cable",
+        "Fast Pair": "Google Fast Pair, Swift Pair"
+      },
+      "Calls": {
+        "Call Microphones": "4 beamforming mics with AI noise reduction"
+      },
+      "Controls": {
+        "Controls": "Touch sensor on right ear cup",
+        "Smart Features": "Speak-to-Chat, Quick Attention, Adaptive Sound Control, wearing detection"
+      },
+      "Design": {
+        "Weight": "250 g",
+        "Foldable": "No (ear cups swivel flat)",
+        "Colours": "Black, Silver, Midnight Blue"
+      }
+    },
+    "features": [
+      "Industry-leading noise cancellation",
+      "Auto NC Optimizer adjusts to your environment",
+      "LDAC Hi-Res wireless audio",
+      "30-hour battery with quick charge",
+      "Multipoint connection to two devices",
+      "Speak-to-Chat pauses music when you talk",
+      "Clear calls with 4 beamforming mics"
+    ],
+    "pros": [
+      "Excellent noise cancellation",
+      "Very comfortable and light",
+      "Great call quality"
+    ],
+    "cons": [
+      "Expensive",
+      "Does not fold for compact storage",
+      "No water resistance rating"
+    ],
+    "in_the_box": [
+      "WH-1000XM5 headphones",
+      "Carrying case",
+      "USB-C charging cable",
+      "3.5 mm headphone cable"
+    ],
+    "images": [
+      "shubham_data/images/sony_wh_1000xm5_1.jpg",
+      "shubham_data/images/sony_wh_1000xm5_2.jpg",
+      "shubham_data/images/sony_wh_1000xm5_3.jpg"
+    ]
+  },
+  {
+    "name": "Sony WH-CH720N",
+    "brand": "Sony",
+    "category": "Headphone",
+    "price": 9990,
+    "description": "The Sony WH-CH720N are Sony's lightest noise cancelling headphones. They offer good noise cancellation, a long 35-hour battery and multipoint connection at a much lower price than the flagship models.",
+    "specifications": {
+      "General": {
+        "Launch": "2023",
+        "Type": "Over-ear, closed-back, wireless",
+        "Companion App": "Sony Headphones Connect"
+      },
+      "Audio": {
+        "Driver": "30 mm dome",
+        "Frequency Response": "7 Hz - 20,000 Hz",
+        "Codecs": "SBC, AAC",
+        "Audio Upscaling": "DSEE",
+        "Spatial Audio": "360 Reality Audio"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "Active (Integrated Processor V1, Dual Noise Sensor)",
+        "Ambient Sound Mode": "Yes",
+        "Adaptive Sound Control": "Yes"
+      },
+      "Battery & Charging": {
+        "Battery Life": "Up to 35 hours (ANC on), 50 hours (ANC off)",
+        "Quick Charge": "3 minutes for 1 hour of playback",
+        "Charging Port": "USB-C"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.2",
+        "Multipoint": "Yes (2 devices)",
+        "Wired": "3.5 mm audio cable",
+        "Fast Pair": "Google Fast Pair, Swift Pair"
+      },
+      "Calls": {
+        "Call Microphones": "Built-in mic with Precise Voice Pickup"
+      },
+      "Controls": {
+        "Controls": "Physical buttons"
+      },
+      "Design": {
+        "Weight": "192 g",
+        "Foldable": "Ear cups swivel flat",
+        "Colours": "Black, White, Blue"
+      }
+    },
+    "features": [
+      "Sony's lightest noise cancelling headphones",
+      "35-hour battery with ANC on",
+      "Multipoint connection",
+      "DSEE audio upscaling",
+      "Custom EQ in Sony app",
+      "Wired mode with 3.5 mm cable"
+    ],
+    "pros": [
+      "Very light and comfortable",
+      "Long battery life",
+      "Good value for money"
+    ],
+    "cons": [
+      "Mostly plastic build",
+      "ANC weaker than premium models",
+      "No LDAC support"
+    ],
+    "in_the_box": [
+      "WH-CH720N headphones",
+      "USB-C charging cable",
+      "3.5 mm headphone cable"
+    ],
+    "images": [
+      "shubham_data/images/sony_wh_ch720n_1.jpg",
+      "shubham_data/images/sony_wh_ch720n_2.jpg",
+      "shubham_data/images/sony_wh_ch720n_3.jpg"
+    ]
+  },
+  {
+    "name": "Bose QuietComfort Ultra",
+    "brand": "Bose",
+    "category": "Headphone",
+    "price": 35900,
+    "description": "The Bose QuietComfort Ultra Headphones are Bose's top-of-the-line noise cancelling headphones. They combine world-class noise cancellation with Bose Immersive Audio, a spatial sound mode that makes music feel like it is playing around you.",
+    "specifications": {
+      "General": {
+        "Launch": "October 2023",
+        "Type": "Over-ear, wireless",
+        "Companion App": "Bose app"
+      },
+      "Audio": {
+        "Driver": "35 mm",
+        "Codecs": "SBC, AAC, aptX Adaptive (Snapdragon Sound)",
+        "Personalisation": "CustomTune sound calibration",
+        "Spatial Audio": "Bose Immersive Audio (Still and Motion modes)"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "Active, world-class",
+        "Modes": "Quiet, Aware (with ActiveSense), Immersion",
+        "Custom Modes": "Yes, via app"
+      },
+      "Battery & Charging": {
+        "Battery Life": "Up to 24 hours (18 hours with Immersive Audio)",
+        "Quick Charge": "15 minutes for 2.5 hours of playback",
+        "Charging Port": "USB-C"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.3",
+        "Multipoint": "Yes (2 devices)",
+        "Wired": "2.5 mm to 3.5 mm audio cable"
+      },
+      "Calls": {
+        "Call Microphones": "Beamforming mics with noise rejection"
+      },
+      "Controls": {
+        "Controls": "Buttons and capacitive touch volume strip",
+        "Smart Features": "Wear detection with auto pause"
+      },
+      "Design": {
+        "Weight": "254 g",
+        "Foldable": "Yes",
+        "Colours": "Black, White Smoke, Sandstone"
+      }
+    },
+    "features": [
+      "World-class noise cancellation",
+      "Bose Immersive Audio spatial sound",
+      "CustomTune calibrates sound to your ears",
+      "aptX Adaptive support",
+      "Fold-flat design with carry case",
+      "Touch volume control strip",
+      "Multipoint Bluetooth"
+    ],
+    "pros": [
+      "Among the best noise cancellation available",
+      "Very comfortable for long use",
+      "Immersive spatial audio"
+    ],
+    "cons": [
+      "Immersive Audio reduces battery life",
+      "Expensive",
+      "Carry case is fairly bulky"
+    ],
+    "in_the_box": [
+      "QuietComfort Ultra headphones",
+      "Carry case",
+      "USB-C to USB-A cable",
+      "2.5 mm to 3.5 mm audio cable"
+    ],
+    "images": [
+      "shubham_data/images/bose_quietcomfort_ultra_1.jpg",
+      "shubham_data/images/bose_quietcomfort_ultra_2.jpg",
+      "shubham_data/images/bose_quietcomfort_ultra_3.jpg"
+    ]
+  },
+  {
+    "name": "Apple AirPods Max",
+    "brand": "Apple",
+    "category": "Headphone",
+    "price": 59900,
+    "description": "The AirPods Max are Apple's premium over-ear headphones. They combine high-fidelity audio with Active Noise Cancellation, spatial audio with head tracking, and a premium build with a stainless steel headband and aluminium ear cups.",
+    "specifications": {
+      "General": {
+        "Launch": "December 2020",
+        "Type": "Over-ear, wireless",
+        "Chip": "Apple H1 chip in each ear cup"
+      },
+      "Audio": {
+        "Driver": "Apple-designed 40 mm dynamic driver",
+        "Adaptive EQ": "Yes",
+        "Spatial Audio": "Personalised Spatial Audio with dynamic head tracking",
+        "Codecs": "SBC, AAC"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "Active Noise Cancellation",
+        "Microphones": "9 microphones (8 for ANC)",
+        "Transparency Mode": "Yes"
+      },
+      "Battery & Charging": {
+        "Battery Life": "Up to 20 hours (ANC and spatial audio on)",
+        "Quick Charge": "5 minutes for 1.5 hours of playback",
+        "Charging Port": "Lightning",
+        "Low Power": "Smart Case puts headphones in ultra-low power mode"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.0",
+        "Apple Features": "Automatic switching between Apple devices, audio sharing",
+        "Wired": "Lightning to 3.5 mm cable (sold separately)"
+      },
+      "Calls": {
+        "Call Microphones": "3 microphones for voice pickup"
+      },
+      "Controls": {
+        "Controls": "Digital Crown for volume and playback, noise control button",
+        "Sensors": "Optical and position sensors, case-detect sensor, accelerometer, gyroscope"
+      },
+      "Design": {
+        "Weight": "384.8 g",
+        "Build": "Stainless steel headband frame, knit mesh canopy, aluminium ear cups, memory foam magnetic ear cushions",
+        "Colours": "Space Grey, Silver, Sky Blue, Pink, Green"
+      }
+    },
+    "features": [
+      "High-fidelity audio with Adaptive EQ",
+      "Active Noise Cancellation with 8 mics",
+      "Spatial audio with dynamic head tracking",
+      "Digital Crown for precise control",
+      "Premium stainless steel and aluminium build",
+      "Magnetic replaceable ear cushions",
+      "Seamless switching between Apple devices"
+    ],
+    "pros": [
+      "Excellent sound quality and ANC",
+      "Premium materials and design",
+      "Best experience with iPhone and Mac"
+    ],
+    "cons": [
+      "Heavy at about 385 g",
+      "Very expensive",
+      "Smart Case offers little protection"
+    ],
+    "in_the_box": [
+      "AirPods Max",
+      "Smart Case",
+      "Lightning to USB-C Cable",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/apple_airpods_max_1.jpg",
+      "shubham_data/images/apple_airpods_max_2.jpg",
+      "shubham_data/images/apple_airpods_max_3.jpg"
+    ]
+  },
+  {
+    "name": "Apple AirPods Pro 2",
+    "brand": "Apple",
+    "category": "Headphone",
+    "price": 24900,
+    "description": "The AirPods Pro (2nd generation) with USB-C are Apple's most advanced earbuds. Powered by the H2 chip, they offer twice the noise cancellation of the original model, Adaptive Audio and a case with a built-in speaker for Find My.",
+    "specifications": {
+      "General": {
+        "Launch": "September 2023 (USB-C version)",
+        "Type": "In-ear, true wireless",
+        "Chip": "Apple H2 (earbuds), U1 (case)"
+      },
+      "Audio": {
+        "Driver": "Custom high-excursion, low-distortion Apple driver",
+        "Adaptive EQ": "Yes",
+        "Spatial Audio": "Personalised Spatial Audio with dynamic head tracking",
+        "Lossless": "Lossless audio with Apple Vision Pro"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "Active, up to 2x more than first generation",
+        "Modes": "Noise Cancellation, Adaptive Audio, Transparency",
+        "Conversation Awareness": "Yes"
+      },
+      "Battery & Charging": {
+        "Earbud Battery": "Up to 6 hours (ANC on)",
+        "With Case": "Up to 30 hours",
+        "Quick Charge": "5 minutes for about 1 hour",
+        "Charging": "USB-C, MagSafe, Qi, Apple Watch charger"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.3",
+        "Apple Features": "Automatic switching, audio sharing, Precision Finding",
+        "Find My": "Case has speaker and lanyard loop"
+      },
+      "Calls": {
+        "Call Microphones": "Dual beamforming microphones, inward-facing mic, Voice Isolation"
+      },
+      "Controls": {
+        "Controls": "Press stem for play/pause, swipe stem to adjust volume",
+        "Sensors": "Skin-detect sensor, motion and speech accelerometers"
+      },
+      "Design": {
+        "Earbud Weight": "5.3 g each",
+        "Case Weight": "50.8 g",
+        "Water Resistance": "IP54 (earbuds and case)",
+        "Ear Tips": "XS, S, M, L",
+        "Colours": "White"
+      }
+    },
+    "features": [
+      "Apple H2 chip with 2x better noise cancellation",
+      "Adaptive Audio blends ANC and Transparency automatically",
+      "Conversation Awareness lowers volume when you speak",
+      "Swipe on stem to change volume",
+      "MagSafe case with USB-C and speaker for Find My",
+      "Personalised Spatial Audio",
+      "IP54 dust, sweat and water resistance"
+    ],
+    "pros": [
+      "Excellent ANC for earbuds",
+      "Comfortable fit with four tip sizes",
+      "Seamless with Apple devices"
+    ],
+    "cons": [
+      "Many features work only with iPhone",
+      "Battery life is average",
+      "Expensive for earbuds"
+    ],
+    "in_the_box": [
+      "AirPods Pro 2",
+      "MagSafe Charging Case (USB-C)",
+      "Silicone ear tips (XS, S, M, L)",
+      "USB-C to USB-C Cable",
+      "Documentation"
+    ],
+    "images": [
+      "shubham_data/images/apple_airpods_pro_2_1.jpg",
+      "shubham_data/images/apple_airpods_pro_2_2.jpg",
+      "shubham_data/images/apple_airpods_pro_2_3.jpg"
+    ]
+  },
+  {
+    "name": "Sennheiser Momentum 4",
+    "brand": "Sennheiser",
+    "category": "Headphone",
+    "price": 34990,
+    "description": "The Sennheiser Momentum 4 Wireless are audiophile-grade headphones with a class-leading 60-hour battery life. They offer rich, detailed Sennheiser sound, adaptive noise cancellation and deep customisation through the Smart Control app.",
+    "specifications": {
+      "General": {
+        "Launch": "2022",
+        "Type": "Over-ear, closed-back, wireless",
+        "Companion App": "Sennheiser Smart Control"
+      },
+      "Audio": {
+        "Driver": "42 mm transducers",
+        "Frequency Response": "6 Hz - 22,000 Hz",
+        "Codecs": "SBC, AAC, aptX, aptX Adaptive",
+        "Personalisation": "Sound Personalisation and custom EQ"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "Adaptive Noise Cancellation",
+        "Transparency Mode": "Transparent Hearing",
+        "Wind Noise Reduction": "Yes"
+      },
+      "Battery & Charging": {
+        "Battery Life": "Up to 60 hours",
+        "Quick Charge": "10 minutes for 6 hours of playback",
+        "Charging Port": "USB-C"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.2",
+        "Multipoint": "Yes (2 devices)",
+        "Wired": "2.5 mm to 3.5 mm audio cable"
+      },
+      "Calls": {
+        "Call Microphones": "4 beamforming microphones"
+      },
+      "Controls": {
+        "Controls": "Touch-sensitive ear cup",
+        "Smart Features": "Auto on/off, Smart Pause when removed"
+      },
+      "Design": {
+        "Weight": "293 g",
+        "Foldable": "Ear cups fold flat",
+        "Colours": "Black, White, Graphite, Denim"
+      }
+    },
+    "features": [
+      "Class-leading 60-hour battery life",
+      "Audiophile Sennheiser sound with 42 mm drivers",
+      "Adaptive Noise Cancellation",
+      "aptX Adaptive high-quality audio",
+      "Sound Personalisation in the app",
+      "Smart Pause and auto on/off",
+      "Multipoint connection"
+    ],
+    "pros": [
+      "Outstanding battery life",
+      "Excellent sound quality",
+      "Comfortable for long sessions"
+    ],
+    "cons": [
+      "ANC slightly behind Sony and Bose",
+      "Touch controls can be sensitive",
+      "Design is less premium than rivals"
+    ],
+    "in_the_box": [
+      "Momentum 4 Wireless headphones",
+      "Carry case",
+      "USB-C to USB-C cable",
+      "2.5 mm to 3.5 mm audio cable",
+      "Airplane adapter"
+    ],
+    "images": [
+      "shubham_data/images/sennheiser_momentum_4_1.jpg",
+      "shubham_data/images/sennheiser_momentum_4_2.jpg",
+      "shubham_data/images/sennheiser_momentum_4_3.jpg"
+    ]
+  },
+  {
+    "name": "JBL Tune 760NC",
+    "brand": "JBL",
+    "category": "Headphone",
+    "price": 7999,
+    "description": "The JBL Tune 760NC are affordable wireless headphones with active noise cancellation and JBL's signature Pure Bass sound. They are lightweight, foldable and offer up to 50 hours of playback.",
+    "specifications": {
+      "General": {
+        "Launch": "2021",
+        "Type": "Over-ear, wireless",
+        "Companion App": "JBL Headphones"
+      },
+      "Audio": {
+        "Driver": "40 mm dynamic",
+        "Frequency Response": "20 Hz - 20,000 Hz",
+        "Sound": "JBL Pure Bass Sound"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "Active Noise Cancelling"
+      },
+      "Battery & Charging": {
+        "Battery Life": "Up to 35 hours (ANC on), 50 hours (ANC off)",
+        "Quick Charge": "5 minutes for 2 hours of playback",
+        "Charging Time": "About 2 hours",
+        "Charging Port": "USB-C"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.0",
+        "Multipoint": "Yes (2 devices)",
+        "Wired": "Detachable 3.5 mm audio cable"
+      },
+      "Calls": {
+        "Call Microphones": "Built-in microphone for hands-free calls"
+      },
+      "Controls": {
+        "Controls": "Ear cup buttons",
+        "Voice Assistant": "Google Assistant / Siri support"
+      },
+      "Design": {
+        "Weight": "220 g",
+        "Foldable": "Yes, flat-fold design",
+        "Colours": "Black, White, Blue"
+      }
+    },
+    "features": [
+      "Active Noise Cancelling",
+      "JBL Pure Bass Sound",
+      "Up to 50 hours of playback",
+      "Fast charging: 5 minutes for 2 hours",
+      "Multipoint connection",
+      "Lightweight foldable design",
+      "Voice assistant support"
+    ],
+    "pros": [
+      "Affordable ANC headphones",
+      "Strong bass",
+      "Long battery life"
+    ],
+    "cons": [
+      "ANC is basic",
+      "Plastic build",
+      "Ear cups can feel small for some users"
+    ],
+    "in_the_box": [
+      "JBL Tune 760NC headphones",
+      "USB-C charging cable",
+      "Detachable audio cable",
+      "Warranty card and safety sheet"
+    ],
+    "images": [
+      "shubham_data/images/jbl_tune_760nc_1.jpg",
+      "shubham_data/images/jbl_tune_760nc_2.jpg",
+      "shubham_data/images/jbl_tune_760nc_3.jpg"
+    ]
+  },
+  {
+    "name": "boAt Rockerz 550",
+    "brand": "boAt",
+    "category": "Headphone",
+    "price": 1799,
+    "description": "The boAt Rockerz 550 are budget wireless headphones popular in India for their big 50 mm drivers and boAt's signature bass. They use soft padded ear cushions for passive noise isolation and offer up to 20 hours of playback.",
+    "specifications": {
+      "General": {
+        "Type": "Over-ear, wireless"
+      },
+      "Audio": {
+        "Driver": "50 mm dynamic",
+        "Frequency Response": "20 Hz - 20,000 Hz",
+        "Sound": "boAt Signature Sound"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "No ANC (passive noise isolation)"
+      },
+      "Battery & Charging": {
+        "Battery Life": "Up to 20 hours",
+        "Charging Time": "About 2.5 hours"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.0",
+        "Dual Mode": "Bluetooth and AUX (wired)"
+      },
+      "Calls": {
+        "Call Microphones": "Built-in microphone"
+      },
+      "Controls": {
+        "Controls": "Ear cup buttons for playback, volume and calls",
+        "Voice Assistant": "Supported"
+      },
+      "Design": {
+        "Weight": "242 g",
+        "Comfort": "Soft padded ear cushions and adjustable headband",
+        "Colours": "Black Symphony, Red Saga, Blue"
+      }
+    },
+    "features": [
+      "Large 50 mm drivers with deep bass",
+      "Up to 20 hours of playback",
+      "Dual mode: Bluetooth and AUX",
+      "Soft padded ear cushions",
+      "Built-in mic for calls",
+      "Voice assistant support"
+    ],
+    "pros": [
+      "Very affordable",
+      "Punchy bass",
+      "Can be used wired when the battery runs out"
+    ],
+    "cons": [
+      "No active noise cancellation",
+      "Bulky design",
+      "Average call quality"
+    ],
+    "in_the_box": [
+      "Rockerz 550 headphones",
+      "Charging cable",
+      "AUX cable",
+      "User manual"
+    ],
+    "images": [
+      "shubham_data/images/boat_rockerz_550_1.jpg",
+      "shubham_data/images/boat_rockerz_550_2.jpg",
+      "shubham_data/images/boat_rockerz_550_3.jpg"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Buds2 Pro",
+    "brand": "Samsung",
+    "category": "Headphone",
+    "price": 17999,
+    "description": "The Galaxy Buds2 Pro are Samsung's premium true wireless earbuds. They support 24-bit Hi-Fi audio on Galaxy phones, Intelligent ANC and 360 Audio, in a compact design that is 15% smaller than the previous model.",
+    "specifications": {
+      "General": {
+        "Launch": "August 2022",
+        "Type": "In-ear, true wireless",
+        "Companion App": "Galaxy Wearable"
+      },
+      "Audio": {
+        "Driver": "10 mm",
+        "Hi-Fi Audio": "24-bit (Samsung Seamless Codec on Galaxy devices)",
+        "Codecs": "SBC, AAC, SSC HiFi",
+        "Spatial Audio": "360 Audio with direct multi-channel"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "Intelligent Active Noise Cancellation",
+        "Ambient Sound": "Yes",
+        "Voice Detect": "Switches to ambient sound when you speak"
+      },
+      "Battery & Charging": {
+        "Earbud Battery": "Up to 5 hours (ANC on), 8 hours (ANC off)",
+        "With Case": "Up to 18 hours (ANC on), 29 hours (ANC off)",
+        "Charging": "USB-C and Qi wireless charging"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.3",
+        "Auto Switch": "Between Galaxy phone, tablet and watch"
+      },
+      "Calls": {
+        "Call Microphones": "3 microphones per earbud with wind-blocking design"
+      },
+      "Controls": {
+        "Controls": "Touch controls"
+      },
+      "Design": {
+        "Earbud Weight": "5.5 g each",
+        "Case Weight": "43.4 g",
+        "Water Resistance": "IPX7",
+        "Colours": "Graphite, White, Bora Purple"
+      }
+    },
+    "features": [
+      "24-bit Hi-Fi audio on Galaxy phones",
+      "Intelligent Active Noise Cancellation",
+      "360 Audio with head tracking",
+      "Voice Detect switches modes when you talk",
+      "IPX7 water resistance",
+      "Wireless charging case",
+      "Auto switch between Galaxy devices"
+    ],
+    "pros": [
+      "Compact and comfortable fit",
+      "Strong ANC and good sound",
+      "IPX7 water resistance"
+    ],
+    "cons": [
+      "Best features need a Samsung phone",
+      "Average battery life",
+      "Touch controls can be triggered accidentally"
+    ],
+    "in_the_box": [
+      "Galaxy Buds2 Pro earbuds",
+      "Charging case",
+      "USB-C cable",
+      "Ear tips (S, M, L)",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/samsung_galaxy_buds2_pro_1.jpg",
+      "shubham_data/images/samsung_galaxy_buds2_pro_2.jpg",
+      "shubham_data/images/samsung_galaxy_buds2_pro_3.jpg"
+    ]
+  },
+  {
+    "name": "OnePlus Buds 3",
+    "brand": "OnePlus",
+    "category": "Headphone",
+    "price": 5499,
+    "description": "The OnePlus Buds 3 are value-focused true wireless earbuds with dual drivers, up to 49 dB adaptive noise cancellation and LHDC 5.0 Hi-Res audio. They offer long battery life and fast charging at an affordable price.",
+    "specifications": {
+      "General": {
+        "Launch": "January 2024",
+        "Type": "In-ear, true wireless",
+        "Companion App": "HeyMelody / built into OnePlus phones"
+      },
+      "Audio": {
+        "Driver": "Dual drivers: 10.4 mm woofer + 6 mm tweeter",
+        "Codecs": "SBC, AAC, LHDC 5.0",
+        "Spatial Audio": "3D Audio"
+      },
+      "Noise Control": {
+        "Noise Cancellation": "Smart adaptive ANC up to 49 dB",
+        "Transparency Mode": "Yes"
+      },
+      "Battery & Charging": {
+        "Earbud Battery": "Up to 10 hours (ANC off), 6.5 hours (ANC on)",
+        "With Case": "Up to 44 hours (ANC off), 28 hours (ANC on)",
+        "Quick Charge": "10 minutes for 7 hours of playback",
+        "Charging Port": "USB-C"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.3",
+        "Dual Connection": "Yes (2 devices)",
+        "Fast Pair": "Google Fast Pair"
+      },
+      "Calls": {
+        "Call Microphones": "3 microphones per earbud with AI noise reduction"
+      },
+      "Controls": {
+        "Controls": "Touch controls with sliding volume adjustment"
+      },
+      "Design": {
+        "Earbud Weight": "4.8 g each",
+        "Water Resistance": "IP55",
+        "Colours": "Metallic Gray, Splendid Blue"
+      }
+    },
+    "features": [
+      "Dual-driver setup for rich sound",
+      "Up to 49 dB adaptive noise cancellation",
+      "LHDC 5.0 Hi-Res wireless audio",
+      "Up to 44 hours total battery",
+      "10-minute charge gives 7 hours",
+      "Slide-to-adjust volume",
+      "Dual connection and Google Fast Pair"
+    ],
+    "pros": [
+      "Excellent value for money",
+      "Strong ANC for the price",
+      "Long battery life"
+    ],
+    "cons": [
+      "LHDC works only with supported phones",
+      "No wireless charging",
+      "Case is slightly bulky"
+    ],
+    "in_the_box": [
+      "OnePlus Buds 3 earbuds",
+      "Charging case",
+      "USB-C cable",
+      "Ear tips (S, M, L)",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/oneplus_buds_3_1.jpg",
+      "shubham_data/images/oneplus_buds_3_2.jpg",
+      "shubham_data/images/oneplus_buds_3_3.jpg"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "Smartwatch",
+    "price": 41900,
+    "description": "The Apple Watch Series 9 is powered by the S9 chip, which enables the new double tap gesture and on-device Siri. It has a brighter 2000-nit display and advanced health features like ECG, blood oxygen and temperature sensing.",
+    "specifications": {
+      "General": {
+        "Launch": "September 2023",
+        "Operating System": "watchOS 10 (upgradable)",
+        "Compatibility": "iPhone XS or later with iOS 17"
+      },
+      "Display": {
+        "Type": "Always-On Retina LTPO OLED",
+        "Sizes": "41 mm (352 x 430 px), 45 mm (396 x 484 px)",
+        "Brightness": "Up to 2000 nits, down to 1 nit"
+      },
+      "Performance": {
+        "Chip": "S9 SiP with 4-core Neural Engine",
+        "Storage": "64 GB"
+      },
+      "Health & Fitness": {
+        "Heart": "Electrical heart sensor (ECG app), optical heart sensor, irregular rhythm notifications",
+        "Blood Oxygen": "Yes",
+        "Temperature Sensing": "Yes (cycle tracking)",
+        "Sleep": "Sleep stages tracking",
+        "Safety": "Crash Detection, Fall Detection, Emergency SOS",
+        "Other": "Noise monitoring, Medications app, Mindfulness"
+      },
+      "Battery": {
+        "Battery Life": "Up to 18 hours (36 hours in Low Power Mode)",
+        "Fast Charging": "0-80% in about 45 minutes"
+      },
+      "Connectivity": {
+        "GPS": "L1 GPS, GLONASS, Galileo, QZSS, BeiDou",
+        "Cellular": "Optional",
+        "Wi-Fi": "802.11b/g/n",
+        "Bluetooth": "5.3",
+        "Ultra Wideband": "Second-generation UWB (Precision Finding for iPhone)",
+        "NFC": "Apple Pay"
+      },
+      "Design": {
+        "Case Material": "Aluminium or stainless steel",
+        "Display Glass": "Ion-X glass (aluminium), sapphire crystal (stainless steel)",
+        "Water Resistance": "WR50 (swim-proof), IP6X dust",
+        "Weight": "31.9 g (41 mm aluminium), 38.7 g (45 mm aluminium)",
+        "Colours": "Midnight, Starlight, Silver, Pink, (PRODUCT)RED"
+      }
+    },
+    "features": [
+      "Double tap gesture to control the watch with one hand",
+      "On-device Siri for faster responses",
+      "2000-nit display, easy to read in sunlight",
+      "ECG and blood oxygen apps",
+      "Crash Detection and Fall Detection",
+      "Precision Finding for your iPhone",
+      "Apple Pay with NFC"
+    ],
+    "pros": [
+      "Smooth performance and bright display",
+      "Comprehensive health and safety features",
+      "Huge app and watch-band ecosystem"
+    ],
+    "cons": [
+      "Works only with iPhone",
+      "Battery needs daily charging",
+      "Expensive compared to Android watches"
+    ],
+    "in_the_box": [
+      "Apple Watch Series 9 case",
+      "Band",
+      "Magnetic Fast Charger to USB-C Cable (1 m)"
+    ],
+    "images": [
+      "shubham_data/images/apple_watch_series_9_1.jpg",
+      "shubham_data/images/apple_watch_series_9_2.jpg",
+      "shubham_data/images/apple_watch_series_9_3.jpg"
+    ]
+  },
+  {
+    "name": "Apple Watch SE (2nd Gen)",
+    "brand": "Apple",
+    "category": "Smartwatch",
+    "price": 29900,
+    "description": "The Apple Watch SE (2nd generation) is the most affordable Apple Watch. It includes the essential features most people need, such as fitness tracking, heart rate notifications, Crash Detection and Fall Detection, powered by the S8 chip.",
+    "specifications": {
+      "General": {
+        "Launch": "September 2022",
+        "Operating System": "watchOS (upgradable)",
+        "Compatibility": "iPhone XS or later with the latest iOS"
+      },
+      "Display": {
+        "Type": "Retina LTPO OLED (not always-on)",
+        "Sizes": "40 mm (324 x 394 px), 44 mm (368 x 448 px)",
+        "Brightness": "Up to 1000 nits"
+      },
+      "Performance": {
+        "Chip": "S8 SiP with dual-core processor",
+        "Storage": "32 GB"
+      },
+      "Health & Fitness": {
+        "Heart": "Optical heart sensor, high/low heart rate and irregular rhythm notifications",
+        "Sleep": "Sleep tracking",
+        "Women's Health": "Cycle tracking",
+        "Safety": "Crash Detection, Fall Detection, Emergency SOS",
+        "Fitness": "Activity rings, workout app"
+      },
+      "Battery": {
+        "Battery Life": "Up to 18 hours (36 hours in Low Power Mode)"
+      },
+      "Connectivity": {
+        "GPS": "L1 GPS, GLONASS, Galileo, QZSS, BeiDou",
+        "Cellular": "Optional",
+        "Wi-Fi": "802.11b/g/n",
+        "Bluetooth": "5.3",
+        "NFC": "Apple Pay"
+      },
+      "Design": {
+        "Case Material": "Aluminium with nylon composite back",
+        "Display Glass": "Ion-X glass",
+        "Water Resistance": "WR50 (swim-proof)",
+        "Weight": "26.4 g (40 mm), 32.9 g (44 mm)",
+        "Colours": "Midnight, Starlight, Silver"
+      }
+    },
+    "features": [
+      "Crash Detection and Fall Detection",
+      "Heart rate and irregular rhythm notifications",
+      "Sleep and cycle tracking",
+      "Swim-proof design",
+      "Apple Pay with NFC",
+      "Family Setup for kids and elderly"
+    ],
+    "pros": [
+      "Most affordable Apple Watch",
+      "Core safety and fitness features included",
+      "Light and comfortable"
+    ],
+    "cons": [
+      "No always-on display",
+      "No ECG or blood oxygen sensor",
+      "Older S8 chip"
+    ],
+    "in_the_box": [
+      "Apple Watch SE case",
+      "Band",
+      "Magnetic Charger to USB-C Cable (1 m)"
+    ],
+    "images": [
+      "shubham_data/images/apple_watch_se_2nd_gen_1.jpg",
+      "shubham_data/images/apple_watch_se_2nd_gen_2.jpg",
+      "shubham_data/images/apple_watch_se_2nd_gen_3.jpg"
+    ]
+  },
+  {
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "category": "Smartwatch",
+    "price": 89900,
+    "description": "The Apple Watch Ultra 2 is Apple's most rugged and capable smartwatch, built for athletes, divers and outdoor adventurers. It has a 49 mm titanium case, the brightest Apple display ever at 3000 nits, precision dual-frequency GPS and up to 36 hours of battery life.",
+    "specifications": {
+      "General": {
+        "Launch": "September 2023",
+        "Operating System": "watchOS 10 (upgradable)",
+        "Compatibility": "iPhone XS or later with iOS 17"
+      },
+      "Display": {
+        "Type": "Always-On Retina LTPO OLED, flat sapphire crystal",
+        "Size": "49 mm (502 x 410 px)",
+        "Brightness": "Up to 3000 nits",
+        "Special": "Modular Ultra watch face, Night Mode, flashlight"
+      },
+      "Performance": {
+        "Chip": "S9 SiP with 4-core Neural Engine",
+        "Storage": "64 GB"
+      },
+      "Health & Fitness": {
+        "Heart": "ECG app, optical heart sensor",
+        "Blood Oxygen": "Yes",
+        "Temperature Sensing": "Yes",
+        "Diving": "Depth gauge to 40 m, water temperature sensor, Oceanic+ app",
+        "Outdoor": "Compass with Waypoints and Backtrack",
+        "Safety": "86 dB emergency siren, Crash Detection, Fall Detection"
+      },
+      "Battery": {
+        "Battery Life": "Up to 36 hours (up to 72 hours in Low Power Mode)"
+      },
+      "Connectivity": {
+        "GPS": "Precision dual-frequency GPS (L1 and L5)",
+        "Cellular": "Built-in",
+        "Wi-Fi": "802.11b/g/n",
+        "Bluetooth": "5.3",
+        "Ultra Wideband": "Second-generation UWB",
+        "NFC": "Apple Pay"
+      },
+      "Design": {
+        "Case Material": "49 mm aerospace-grade titanium",
+        "Water Resistance": "WR100, EN13319 dive certified",
+        "Durability": "IP6X dust, MIL-STD 810H tested",
+        "Weight": "61.4 g",
+        "Buttons": "Customisable Action button",
+        "Bands": "Alpine Loop, Trail Loop, Ocean Band"
+      }
+    },
+    "features": [
+      "Rugged 49 mm titanium case",
+      "3000-nit display, brightest Apple display ever",
+      "Precision dual-frequency GPS",
+      "Customisable Action button",
+      "Dive computer features with depth gauge to 40 m",
+      "86 dB emergency siren",
+      "Up to 72 hours in Low Power Mode"
+    ],
+    "pros": [
+      "Best battery life of any Apple Watch",
+      "Extremely durable",
+      "Very accurate GPS"
+    ],
+    "cons": [
+      "Large and heavy for small wrists",
+      "Very expensive",
+      "Works only with iPhone"
+    ],
+    "in_the_box": [
+      "Apple Watch Ultra 2 case",
+      "Band",
+      "Magnetic Fast Charger to USB-C Cable (1 m)"
+    ],
+    "images": [
+      "shubham_data/images/apple_watch_ultra_2_1.jpg",
+      "shubham_data/images/apple_watch_ultra_2_2.jpg",
+      "shubham_data/images/apple_watch_ultra_2_3.jpg"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Watch6",
+    "brand": "Samsung",
+    "category": "Smartwatch",
+    "price": 29999,
+    "description": "The Galaxy Watch6 is Samsung's slim Wear OS smartwatch with a larger, brighter display and thinner bezels. It offers advanced health tracking with Samsung's BioActive Sensor, including ECG, body composition and personalised sleep coaching.",
+    "specifications": {
+      "General": {
+        "Launch": "July 2023",
+        "Operating System": "Wear OS 4 with One UI 5 Watch",
+        "Compatibility": "Android 10 or later with 1.5 GB RAM or more"
+      },
+      "Display": {
+        "Type": "Super AMOLED, sapphire crystal",
+        "Sizes": "1.3 inches / 40 mm (432 x 432 px), 1.5 inches / 44 mm (480 x 480 px)",
+        "Brightness": "Up to 2000 nits"
+      },
+      "Performance": {
+        "Chip": "Exynos W930, dual-core 1.4 GHz",
+        "RAM": "2 GB",
+        "Storage": "16 GB"
+      },
+      "Health & Fitness": {
+        "Sensors": "BioActive Sensor (optical heart rate, ECG, bioelectrical impedance analysis)",
+        "Body Composition": "Yes (BIA)",
+        "Blood Oxygen": "Yes",
+        "Temperature": "Skin temperature sensor",
+        "Sleep": "Sleep coaching and sleep score",
+        "Safety": "Fall detection, irregular heart rhythm notification"
+      },
+      "Battery": {
+        "Battery": "300 mAh (40 mm), 425 mAh (44 mm)",
+        "Battery Life": "Up to 40 hours (AOD off)",
+        "Charging": "WPC wireless fast charging"
+      },
+      "Connectivity": {
+        "GPS": "GPS, GLONASS, Beidou, Galileo",
+        "Cellular": "Optional LTE",
+        "Wi-Fi": "Wi-Fi 2.4 GHz + 5 GHz",
+        "Bluetooth": "5.3",
+        "NFC": "Yes (Samsung Wallet)"
+      },
+      "Design": {
+        "Case Material": "Armour Aluminium",
+        "Water Resistance": "5ATM + IP68",
+        "Durability": "MIL-STD-810H",
+        "Weight": "28.7 g (40 mm), 33.3 g (44 mm)",
+        "Colours": "Graphite, Gold (40 mm), Graphite, Silver (44 mm)"
+      }
+    },
+    "features": [
+      "Larger display with 30% thinner bezels",
+      "BioActive Sensor for ECG and body composition",
+      "Personalised sleep coaching",
+      "Wear OS with Google apps",
+      "Samsung Wallet with NFC",
+      "One-click band change mechanism",
+      "5ATM and IP68 water resistance"
+    ],
+    "pros": [
+      "Bright, sharp display",
+      "Excellent health tracking",
+      "Full Google app support"
+    ],
+    "cons": [
+      "Battery lasts only about 1-2 days",
+      "Some health features need a Samsung phone",
+      "Does not work with iPhone"
+    ],
+    "in_the_box": [
+      "Galaxy Watch6",
+      "Strap",
+      "Wireless charger (USB-C)",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/samsung_galaxy_watch6_1.jpg",
+      "shubham_data/images/samsung_galaxy_watch6_2.jpg",
+      "shubham_data/images/samsung_galaxy_watch6_3.jpg"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Watch6 Classic",
+    "brand": "Samsung",
+    "category": "Smartwatch",
+    "price": 36999,
+    "description": "The Galaxy Watch6 Classic brings back Samsung's popular physical rotating bezel in a premium stainless steel design. It has the same advanced health tracking as the Galaxy Watch6, with a more traditional watch look.",
+    "specifications": {
+      "General": {
+        "Launch": "July 2023",
+        "Operating System": "Wear OS 4 with One UI 5 Watch",
+        "Compatibility": "Android 10 or later with 1.5 GB RAM or more"
+      },
+      "Display": {
+        "Type": "Super AMOLED, sapphire crystal",
+        "Sizes": "1.3 inches / 43 mm (432 x 432 px), 1.5 inches / 47 mm (480 x 480 px)",
+        "Brightness": "Up to 2000 nits"
+      },
+      "Performance": {
+        "Chip": "Exynos W930, dual-core 1.4 GHz",
+        "RAM": "2 GB",
+        "Storage": "16 GB"
+      },
+      "Health & Fitness": {
+        "Sensors": "BioActive Sensor (optical heart rate, ECG, bioelectrical impedance analysis)",
+        "Body Composition": "Yes (BIA)",
+        "Blood Oxygen": "Yes",
+        "Temperature": "Skin temperature sensor",
+        "Sleep": "Sleep coaching and sleep score",
+        "Safety": "Fall detection, irregular heart rhythm notification"
+      },
+      "Battery": {
+        "Battery": "300 mAh (43 mm), 425 mAh (47 mm)",
+        "Battery Life": "Up to 40 hours (AOD off)",
+        "Charging": "WPC wireless fast charging"
+      },
+      "Connectivity": {
+        "GPS": "GPS, GLONASS, Beidou, Galileo",
+        "Cellular": "Optional LTE",
+        "Wi-Fi": "Wi-Fi 2.4 GHz + 5 GHz",
+        "Bluetooth": "5.3",
+        "NFC": "Yes (Samsung Wallet)"
+      },
+      "Design": {
+        "Case Material": "Stainless steel",
+        "Bezel": "Physical rotating bezel",
+        "Water Resistance": "5ATM + IP68",
+        "Durability": "MIL-STD-810H",
+        "Weight": "52 g (43 mm), 59 g (47 mm)",
+        "Colours": "Black, Silver"
+      }
+    },
+    "features": [
+      "Physical rotating bezel for easy navigation",
+      "Premium stainless steel case",
+      "BioActive Sensor for ECG and body composition",
+      "Sleep coaching",
+      "Wear OS with Google apps",
+      "5ATM and IP68 water resistance",
+      "Samsung Wallet with NFC"
+    ],
+    "pros": [
+      "Rotating bezel is fun and practical",
+      "Premium classic design",
+      "Excellent health tracking"
+    ],
+    "cons": [
+      "Heavier than the regular Watch6",
+      "Battery lasts only about 1-2 days",
+      "Does not work with iPhone"
+    ],
+    "in_the_box": [
+      "Galaxy Watch6 Classic",
+      "Strap",
+      "Wireless charger (USB-C)",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/samsung_galaxy_watch6_classic_1.jpg",
+      "shubham_data/images/samsung_galaxy_watch6_classic_2.jpg",
+      "shubham_data/images/samsung_galaxy_watch6_classic_3.jpg"
+    ]
+  },
+  {
+    "name": "Google Pixel Watch 2",
+    "brand": "Google",
+    "category": "Smartwatch",
+    "price": 39900,
+    "description": "The Google Pixel Watch 2 combines a domed circular design with deep Fitbit health tracking. It has new sensors for skin temperature and body stress (cEDA), improved heart rate accuracy and a full day of battery with the always-on display.",
+    "specifications": {
+      "General": {
+        "Launch": "October 2023",
+        "Operating System": "Wear OS 4",
+        "Compatibility": "Android 9 or later"
+      },
+      "Display": {
+        "Type": "AMOLED, always-on, custom 3D Corning Gorilla Glass 5",
+        "Size": "41 mm (384 x 384 px, 320 ppi)",
+        "Brightness": "Up to 1000 nits"
+      },
+      "Performance": {
+        "Chip": "Qualcomm Snapdragon W5 Gen 1 with Cortex-M33 co-processor",
+        "RAM": "2 GB",
+        "Storage": "32 GB"
+      },
+      "Health & Fitness": {
+        "Heart": "Multi-path optical heart rate sensor, ECG app",
+        "Blood Oxygen": "Yes",
+        "Skin Temperature": "Yes",
+        "Stress": "cEDA sensor for body response tracking",
+        "Fitbit Features": "Daily Readiness, Sleep Profile, Active Zone Minutes",
+        "Safety": "Fall Detection, Safety Check, Emergency Sharing"
+      },
+      "Battery": {
+        "Battery": "306 mAh",
+        "Battery Life": "Up to 24 hours with always-on display",
+        "Charging": "Pin charger, about 50% in 30 minutes"
+      },
+      "Connectivity": {
+        "GPS": "GPS, GLONASS, Galileo, BeiDou",
+        "Cellular": "Optional LTE",
+        "Wi-Fi": "802.11 b/g/n",
+        "Bluetooth": "5.0",
+        "NFC": "Yes (Google Wallet)"
+      },
+      "Design": {
+        "Case Material": "100% recycled aluminium",
+        "Water Resistance": "5ATM, IP68",
+        "Weight": "31 g (without band)",
+        "Colours": "Polished Silver, Matte Black, Champagne Gold"
+      }
+    },
+    "features": [
+      "Fitbit health and fitness tracking built in",
+      "Body stress tracking with cEDA sensor",
+      "Skin temperature sensing",
+      "Safety Check and Emergency Sharing",
+      "Google Assistant, Maps and Wallet",
+      "Full day battery with always-on display",
+      "Light recycled aluminium case"
+    ],
+    "pros": [
+      "Beautiful domed design",
+      "Accurate heart rate tracking",
+      "Smooth Wear OS experience"
+    ],
+    "cons": [
+      "Only one size (41 mm)",
+      "Some Fitbit features need Fitbit Premium",
+      "Daily charging needed"
+    ],
+    "in_the_box": [
+      "Google Pixel Watch 2",
+      "Active Band (S and L sizes)",
+      "USB-C fast charging cable",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/google_pixel_watch_2_1.jpg",
+      "shubham_data/images/google_pixel_watch_2_2.jpg",
+      "shubham_data/images/google_pixel_watch_2_3.jpg"
+    ]
+  },
+  {
+    "name": "OnePlus Watch 2",
+    "brand": "OnePlus",
+    "category": "Smartwatch",
+    "price": 24999,
+    "description": "The OnePlus Watch 2 is a Wear OS smartwatch with a unique dual-engine architecture. It uses a Snapdragon W5 chip for smart features and an efficient BES2700 chip for basic tasks, giving it up to 100 hours of battery in smart mode.",
+    "specifications": {
+      "General": {
+        "Launch": "March 2024",
+        "Operating System": "Wear OS 4 with RTOS (dual-engine)",
+        "Compatibility": "Android 8.0 or later"
+      },
+      "Display": {
+        "Type": "AMOLED, sapphire crystal",
+        "Size": "1.43 inches (466 x 466 px)",
+        "Brightness": "Up to 1000 nits"
+      },
+      "Performance": {
+        "Chips": "Qualcomm Snapdragon W5 Gen 1 + BES2700 MCU",
+        "RAM": "2 GB",
+        "Storage": "32 GB"
+      },
+      "Health & Fitness": {
+        "Heart Rate": "24/7 heart rate monitoring",
+        "Blood Oxygen": "Yes",
+        "Sleep": "Sleep tracking with sleep apnea indicators",
+        "Stress": "Stress monitoring",
+        "Sports Modes": "100+ sports modes"
+      },
+      "Battery": {
+        "Battery": "500 mAh",
+        "Battery Life": "Up to 100 hours in smart mode, 12 days in power saver mode",
+        "Charging": "7.5W VOOC fast charging (about 60 minutes for a full charge)"
+      },
+      "Connectivity": {
+        "GPS": "Dual-frequency GPS (L1 + L5)",
+        "Wi-Fi": "Yes",
+        "Bluetooth": "5.2",
+        "NFC": "Yes (Google Wallet)"
+      },
+      "Design": {
+        "Case Material": "Stainless steel chassis",
+        "Water Resistance": "5ATM, IP68",
+        "Durability": "MIL-STD-810H",
+        "Weight": "49 g (without strap)",
+        "Colours": "Black Steel, Radiant Steel"
+      }
+    },
+    "features": [
+      "Dual-engine design for long battery life",
+      "Up to 100 hours in smart mode",
+      "Wear OS with Google apps",
+      "Dual-frequency GPS for accurate tracking",
+      "Sapphire crystal display",
+      "Fast VOOC charging",
+      "100+ sports modes"
+    ],
+    "pros": [
+      "Excellent battery life for a Wear OS watch",
+      "Premium build with sapphire glass",
+      "Accurate GPS"
+    ],
+    "cons": [
+      "Only one large size",
+      "Does not work with iPhone",
+      "No LTE option"
+    ],
+    "in_the_box": [
+      "OnePlus Watch 2",
+      "Strap",
+      "Charging dock with USB-C cable",
+      "Quick Start Guide"
+    ],
+    "images": [
+      "shubham_data/images/oneplus_watch_2_1.jpg",
+      "shubham_data/images/oneplus_watch_2_2.jpg",
+      "shubham_data/images/oneplus_watch_2_3.jpg"
+    ]
+  },
+  {
+    "name": "Amazfit GTR 4",
+    "brand": "Amazfit",
+    "category": "Smartwatch",
+    "price": 16999,
+    "description": "The Amazfit GTR 4 is a classic round smartwatch with very long battery life and accurate dual-band GPS. It offers detailed health tracking with the BioTracker 4.0 sensor, Bluetooth calling and built-in Amazon Alexa.",
+    "specifications": {
+      "General": {
+        "Launch": "2022",
+        "Operating System": "Zepp OS",
+        "Compatibility": "Android 7.0 or later, iOS 14.0 or later"
+      },
+      "Display": {
+        "Type": "AMOLED, always-on",
+        "Size": "1.43 inches (466 x 466 px, 326 ppi)"
+      },
+      "Performance": {
+        "Music Storage": "2.3 GB"
+      },
+      "Health & Fitness": {
+        "Sensor": "BioTracker 4.0 PPG",
+        "Tracking": "Heart rate, blood oxygen, stress, sleep",
+        "Sports Modes": "150+ sports modes with automatic detection",
+        "Readiness": "PAI health assessment"
+      },
+      "Battery": {
+        "Battery": "475 mAh",
+        "Battery Life": "Up to 14 days typical use, 27 days in battery saver mode"
+      },
+      "Connectivity": {
+        "GPS": "Dual-band circularly polarised GPS, 6 satellite systems",
+        "Bluetooth": "5.0 BLE",
+        "Wi-Fi": "2.4 GHz",
+        "Calls": "Bluetooth calling"
+      },
+      "Smart Features": {
+        "Voice Assistant": "Amazon Alexa built-in, offline voice control",
+        "Music": "Offline music playback"
+      },
+      "Design": {
+        "Case Material": "Aluminium alloy middle frame",
+        "Dimensions": "46 x 46 x 10.6 mm",
+        "Weight": "34 g (without strap)",
+        "Water Resistance": "5ATM",
+        "Colours": "Superspeed Black, Racetrack Grey, Vintage Brown Leather"
+      }
+    },
+    "features": [
+      "Up to 14 days of battery life",
+      "Dual-band GPS with 6 satellite systems",
+      "Bluetooth calling from the wrist",
+      "Amazon Alexa built-in",
+      "150+ sports modes",
+      "Offline music storage",
+      "Works with both Android and iPhone"
+    ],
+    "pros": [
+      "Excellent battery life",
+      "Very accurate GPS",
+      "Classic watch design"
+    ],
+    "cons": [
+      "Limited third-party apps",
+      "Cannot reply to messages on iPhone",
+      "No NFC payments in India"
+    ],
+    "in_the_box": [
+      "Amazfit GTR 4",
+      "Strap",
+      "Magnetic charging cable",
+      "User manual"
+    ],
+    "images": [
+      "shubham_data/images/amazfit_gtr_4_1.jpg",
+      "shubham_data/images/amazfit_gtr_4_2.jpg",
+      "shubham_data/images/amazfit_gtr_4_3.jpg"
+    ]
+  },
+  {
+    "name": "Noise ColorFit Pro 5",
+    "brand": "Noise",
+    "category": "Smartwatch",
+    "price": 3999,
+    "description": "The Noise ColorFit Pro 5 is a budget smartwatch with a large 1.85-inch AMOLED display and Bluetooth calling. It tracks key health metrics through the Noise Health Suite and offers about a week of battery life.",
+    "specifications": {
+      "General": {
+        "Launch": "2023",
+        "Compatibility": "Android and iOS",
+        "Companion App": "NoiseFit"
+      },
+      "Display": {
+        "Type": "AMOLED, always-on",
+        "Size": "1.85 inches"
+      },
+      "Health & Fitness": {
+        "Tracking": "Heart rate, blood oxygen, stress, sleep, female cycle tracking",
+        "Suite": "Noise Health Suite",
+        "Sports Modes": "100+ sports modes"
+      },
+      "Battery": {
+        "Battery Life": "Up to 7 days"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.3",
+        "Calls": "Bluetooth calling with Tru Sync"
+      },
+      "Smart Features": {
+        "Notifications": "Smart notifications",
+        "Other": "Smart DND, quick replies (Android), calculator, weather, alarms"
+      },
+      "Design": {
+        "Shape": "Square dial",
+        "Water Resistance": "IP68",
+        "Colours": "Elite Black, Elite Silver, Vintage Brown"
+      }
+    },
+    "features": [
+      "Large 1.85-inch AMOLED display",
+      "Bluetooth calling with Tru Sync",
+      "Noise Health Suite",
+      "100+ sports modes",
+      "Smart DND mode",
+      "IP68 water resistance",
+      "Up to 7 days battery"
+    ],
+    "pros": [
+      "Big, bright display for the price",
+      "Clear Bluetooth calling",
+      "Affordable"
+    ],
+    "cons": [
+      "Health tracking is less accurate than premium watches",
+      "No GPS",
+      "Limited apps"
+    ],
+    "in_the_box": [
+      "ColorFit Pro 5 smartwatch",
+      "Magnetic charging cable",
+      "User manual",
+      "Warranty card"
+    ],
+    "images": [
+      "shubham_data/images/noise_colorfit_pro_5_1.jpg",
+      "shubham_data/images/noise_colorfit_pro_5_2.jpg",
+      "shubham_data/images/noise_colorfit_pro_5_3.jpg"
+    ]
+  },
+  {
+    "name": "Fire-Boltt Phoenix Pro",
+    "brand": "Fire-Boltt",
+    "category": "Smartwatch",
+    "price": 1999,
+    "description": "The Fire-Boltt Phoenix Pro is a low-cost round smartwatch with Bluetooth calling and a metal-finish design. It tracks basic health metrics and offers over 120 sports modes, making it a popular entry-level choice in India.",
+    "specifications": {
+      "General": {
+        "Launch": "2023",
+        "Compatibility": "Android and iOS",
+        "Companion App": "Da Fit"
+      },
+      "Display": {
+        "Type": "TFT, round",
+        "Size": "1.39 inches (240 x 240 px)"
+      },
+      "Health & Fitness": {
+        "Tracking": "Heart rate, blood oxygen, sleep",
+        "Sports Modes": "120+ sports modes"
+      },
+      "Battery": {
+        "Battery Life": "Up to 7 days"
+      },
+      "Connectivity": {
+        "Bluetooth": "5.0",
+        "Calls": "Bluetooth calling with dial pad and call history"
+      },
+      "Smart Features": {
+        "Voice Assistant": "AI voice assistant",
+        "Other": "Smart notifications, games, weather, music control"
+      },
+      "Design": {
+        "Shape": "Round dial",
+        "Water Resistance": "IP67",
+        "Colours": "Black, Gold, Silver"
+      }
+    },
+    "features": [
+      "Bluetooth calling with dial pad",
+      "120+ sports modes",
+      "AI voice assistant",
+      "Heart rate and SpO2 tracking",
+      "Round metal-look design",
+      "IP67 water resistance"
+    ],
+    "pros": [
+      "Very affordable",
+      "Bluetooth calling at a low price",
+      "Stylish round design"
+    ],
+    "cons": [
+      "Low-resolution TFT display",
+      "Basic health tracking accuracy",
+      "No GPS"
+    ],
+    "in_the_box": [
+      "Phoenix Pro smartwatch",
+      "Magnetic charging cable",
+      "User manual"
+    ],
+    "images": [
+      "shubham_data/images/fire_boltt_phoenix_pro_1.jpg",
+      "shubham_data/images/fire_boltt_phoenix_pro_2.jpg",
+      "shubham_data/images/fire_boltt_phoenix_pro_3.jpg"
+    ]
+  }
+]
