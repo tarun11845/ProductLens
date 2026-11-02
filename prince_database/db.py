@@ -4,7 +4,15 @@ import re
 from bson import ObjectId
 from pymongo import MongoClient
 
-MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
+import streamlit as st
+
+try:
+    MONGO_URI = st.secrets["MONGO_URI"]
+except Exception:
+    MONGO_URI = os.getenv(
+        "MONGO_URI",
+        "mongodb://localhost:27017"
+    )
 DB_NAME = "product_lens"
 COLLECTION_NAME = "products"
 
