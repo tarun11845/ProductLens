@@ -43,11 +43,11 @@ def show_product_details(product):
     with review_tab:
         pros_col, cons_col = st.columns(2)
         with pros_col:
-            st.markdown("#### 👍 Pros")
+            st.markdown("####  Pros")
             for pro in product.get("pros", []):
                 st.success(pro)
         with cons_col:
-            st.markdown("#### 👎 Cons")
+            st.markdown("####  Cons")
             for con in product.get("cons", []):
                 st.error(con)
 
